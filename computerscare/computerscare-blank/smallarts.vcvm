@@ -1,0 +1,58 @@
+{
+  "plugin": "computerscare",
+  "model": "computerscare-blank",
+  "version": "2.1.11",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 1.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    },
+    {
+      "value": 0.0,
+      "id": 4
+    },
+    {
+      "value": 0.5,
+      "id": 5
+    },
+    {
+      "value": 0.0,
+      "id": 6
+    },
+    {
+      "value": 1.0,
+      "id": 7
+    },
+    {
+      "value": 0.20094799995422363,
+      "id": 8
+    },
+    {
+      "value": 1.0,
+      "id": 9
+    }
+  ],
+  "data": {
+    "path": "C:/Users/user/Pictures/small_arts_computerscare/205yeah.png",
+    "width": 120.0,
+    "imageFitEnum": 0,
+    "invertY": true,
+    "zoomX": 0.045283019542694092,
+    "zoomY": 0.2638888955116272,
+    "xOffset": 0.0,
+    "yOffset": 0.0,
+    "rotation": 0
+  }
+}

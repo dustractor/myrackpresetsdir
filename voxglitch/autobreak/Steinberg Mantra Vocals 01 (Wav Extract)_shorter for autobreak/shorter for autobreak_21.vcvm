@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra FX - Monks Chants Vocoder 04 C_DG.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra FX - Monks Chants Vocoder 05 C_DG.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra FX - Monks Chants Vocoder 06 C_DG.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra FX - Narayanari wide chorus C 01_DG.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra FX - Narayanari wide chorus C 02_DG.wav"
+ }
+}

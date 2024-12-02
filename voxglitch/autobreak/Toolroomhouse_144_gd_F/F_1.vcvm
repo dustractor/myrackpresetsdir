@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Toolroomhouse_144_gd\\F\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_set_me_free_F.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Toolroomhouse_144_gd\\F\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_something_in_the_way_F.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Toolroomhouse_144_gd\\F\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_watch_the_fire_Fmaj.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Toolroomhouse_144_gd\\F\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_falling_deep_for_you_F.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Toolroomhouse_144_gd\\F\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_ill_be_good_F.wav"
+ }
+}

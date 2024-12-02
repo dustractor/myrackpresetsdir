@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\breakbeat loops\\Earth Wind & Fire - Everything Is Everything.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\breakbeat loops\\Earth Wind & Fire - Happy Feelin.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\breakbeat loops\\Ebony Rhythm Band - Soul Heart Transplant.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\breakbeat loops\\Eddie Bo - Hook And Sling (ver.1) (part1).wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\breakbeat loops\\Eddie Bo - Hook And Sling (ver.1) (part2).wav"
+ }
+}

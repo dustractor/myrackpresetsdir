@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\FX (73).wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Fx (Crash).wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Fx - Fck12 2.0 \u22f1.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\FX - Sync long.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\FX HITS_CHAIN12.wav"
+ }
+}

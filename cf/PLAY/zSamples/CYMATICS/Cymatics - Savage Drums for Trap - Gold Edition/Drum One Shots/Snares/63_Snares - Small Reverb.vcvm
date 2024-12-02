@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\CYMATICS\\Cymatics - Savage Drums for Trap - Gold Edition\\Drum One Shots\\Snares\\Snares - Small Reverb\\Cymatics - Small Reverb Snare 10.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\The Lunch77 Three 6 Mafia, Juicy J & DJ Paul Drumkit\\Extras\\005-three_6_mafia-i_got_(feat._pimp_c_and_project_pat) (partial.1).wav"
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "0.000 - 0.588 Aeolian\n0.589 - 1.176 Blues\n1.177 - 1.764 Chromatic\n1.765 - 2.352 Diatonic Minor\n2.353 - 2.941 Dorian\n2.942 - 3.529 Harmonic Minor\n3.530 - 4.117 Indian\n4.118 - 4.705 Locrian\n4.706 - 5.294 Lydian\n5.295 - 5.882 Major\n5.883 - 6.470 Melodic Minor\n6.471 - 7.058 Minor\n7.059 - 7.647 Mixolydian\n7.648 - 8.235 Natural Minor\n8.236 - 8.823 Pentatonic\n8.824 - 8.411 Phrygian\n8.412 - 9.999 Turkish\n10.000 - None\n",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "JW NoteSeq Scale Voltages"
+  }
+}

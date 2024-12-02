@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Strangers Top Drum Loop 13 - 140 BPM.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - SYNTH Blade (C).wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Tatted Like Cartel - 140 BPM.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - TEXTURE Ice Cap - 140 BPM F Min.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Titan Chord Loop 29 - 140 BPM F Min.wav"
+ }
+}

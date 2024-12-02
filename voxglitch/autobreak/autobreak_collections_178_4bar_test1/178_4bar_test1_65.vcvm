@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\An Evening of FourplaySet2.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ANMLPrim_Capuchin Monkey Chirping Vocalizations 011 a_PSE_WCCM_8QhAg.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ANMLPrim_Capuchin Monkey Chirping Vocalizations 011 b_PSE_WCCM_vUS1V.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ANMLPrim_Capuchin Monkey Chirping Vocalizations 011 c_PSE_WCCM_cBzMG.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ARMS 2    88.wav"
+ }
+}

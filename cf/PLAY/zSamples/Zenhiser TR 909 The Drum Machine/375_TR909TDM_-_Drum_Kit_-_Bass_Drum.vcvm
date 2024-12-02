@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Zenhiser TR 909 The Drum Machine\\TR909TDM_-_Drum_Kit_-_Bass_Drum\\001_Bassdrum_Acc1_Tune1_Att1_Dec1_-_TR909TDM_Zenhiser.wav"
+ }
+}

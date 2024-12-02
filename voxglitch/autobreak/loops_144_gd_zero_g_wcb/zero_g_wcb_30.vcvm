@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops_144_gd\\zero_g_wcb\\zero_G_wcb_144 - Track 54.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops_144_gd\\zero_g_wcb\\zero_G_wcb_144 - Track 55.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops_144_gd\\zero_g_wcb\\zero_G_wcb_144 - Track 56.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops_144_gd\\zero_g_wcb\\zero_G_wcb_144 - Track 57.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops_144_gd\\zero_g_wcb\\zero_G_wcb_144 - Track 58.wav"
+ }
+}

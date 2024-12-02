@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "0.000 - 0.833 = C\n0.834 - 1.666 = C#\n1.667 - 2.499 = D\n2.500 - 3.333 = D#\n3.334 - 4.166 = E\n4.167 - 4.999 = F\n5.000 - 5.833 = F#\n5.834 - 6.666 = G\n6.667 - 7.499 = G#\n7.500 - 8.333 = A\n8.334 - 9.166 = A#\n9.167 - 9.999 = B\n10.000 = C",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "Slips Root Voltages"
+  }
+}

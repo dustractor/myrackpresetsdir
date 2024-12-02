@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e5 - GIO_ANTL_120_saz_strings_intense_hijaz_A.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e5 - KMRBI_CRV_80_vocal_harmony_loop_lying_low_wet_Am.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e5 - KMRBI_CRV_80_vocal_harmony_loop_lying_mid_wet_Am.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e5 - KMRBI_CRV_80_vocal_hook_loop_goodbye_wet_Am.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e5 - KMRBI_CRV_80_vocal_hook_loop_settle_down_wet_Am.wav"
+ }
+}

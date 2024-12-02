@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Cymatics - VYPR Nostalgic Melody Loop 24 - 145 BPM G# Min.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Cymatics - VYPR R&B Full Drum Loop 54 - 145 BPM.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Cymatics - VYPR R&B Full Drum Loop 55 - 145 BPM.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Cymatics - VYPR Sad Melody Loop 16 - 144 BPM A Min.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Cymatics - VYPR Various Melody Loop 30 - 145 BPM C Min.wav"
+ }
+}

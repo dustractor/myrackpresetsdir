@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RAGGED Indian Vocal Pack Volume 1\\for_autobreak\\06_Charana_C 70bpm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RAGGED Indian Vocal Pack Volume 1\\for_autobreak\\06_Charana_D 86bpm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RAGGED Indian Vocal Pack Volume 1\\for_autobreak\\06_Charana_Part-1_B 128bpm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RAGGED Indian Vocal Pack Volume 1\\for_autobreak\\06_Charana_Part-1_D 130bpm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RAGGED Indian Vocal Pack Volume 1\\for_autobreak\\06_Charana_Part-2_A 125bpm.wav"
+ }
+}

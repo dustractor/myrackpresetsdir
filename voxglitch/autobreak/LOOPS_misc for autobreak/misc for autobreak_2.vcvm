@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_102_Bongo_loop_paint.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_102_Bongo_loop_sense.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_102_conga_loop_power.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_102_Moroccan_Bongo_loop_line.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_104_Bata_percussion_loop_work.wav"
+ }
+}

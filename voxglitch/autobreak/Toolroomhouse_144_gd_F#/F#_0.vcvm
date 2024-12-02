@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Toolroomhouse_144_gd\\F#\\techhousevocalswksp - T_HV3_128_vocal_chop_loop_wet_buzy_Gb.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Toolroomhouse_144_gd\\F#\\techhousevocalswksp - T_HV3_128_vocal_chop_loop_wet_give_up_Gb.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Toolroomhouse_144_gd\\F#\\techhousevocalswksp - T_HV3_128_vocal_chop_loop_wet_snarey_Gbm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Toolroomhouse_144_gd\\F#\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_make_believe_F#.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Toolroomhouse_144_gd\\F#\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_take_the_lead_F#.wav"
+ }
+}

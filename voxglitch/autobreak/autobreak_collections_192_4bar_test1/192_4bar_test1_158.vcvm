@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\SS_AFV3_Fly_Hats_Loop_97_F#maj.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\SS_AFV3_Fly_Kick_Loop_97_F#maj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\SS_AFV3_Fly_Snare_Loop_97_F#maj.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\SS_AFV3_Go_Kick_Loop_95_Amin.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\SS_SMG2_fx_noise_sweep_one_shot_pure.wav"
+ }
+}

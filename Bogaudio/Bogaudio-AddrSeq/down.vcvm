@@ -1,0 +1,60 @@
+{
+  "plugin": "Bogaudio",
+  "model": "Bogaudio-AddrSeq",
+  "version": "2.4.45",
+  "params": [
+    {
+      "value": 8.0,
+      "id": 0
+    },
+    {
+      "value": 1.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": -1.0,
+      "id": 3
+    },
+    {
+      "value": -1.0,
+      "id": 4
+    },
+    {
+      "value": -1.0,
+      "id": 5
+    },
+    {
+      "value": -1.0,
+      "id": 6
+    },
+    {
+      "value": -1.0,
+      "id": 7
+    },
+    {
+      "value": -1.0,
+      "id": 8
+    },
+    {
+      "value": -1.0,
+      "id": 9
+    },
+    {
+      "value": -1.0,
+      "id": 10
+    }
+  ],
+  "data": {
+    "poly_input": 0,
+    "select_on_clock": false,
+    "triggered_select": false,
+    "reverse_on_negative_clock": false,
+    "wrap_select_at_steps": false,
+    "range_offset": 0.0,
+    "range_scale": 10.0
+  }
+}

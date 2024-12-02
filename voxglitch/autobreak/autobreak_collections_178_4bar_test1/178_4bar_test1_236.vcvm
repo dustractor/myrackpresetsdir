@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\RISER (108).wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ROW_90_drum_fill_arms_tape_vinyl.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ROW_90_drum_fill_toybox_tape_vinyl.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ROW_90_drum_fill_warm_tape_vinyl.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\ROW_synth_tape_vinyl_numan_G#.wav"
+ }
+}

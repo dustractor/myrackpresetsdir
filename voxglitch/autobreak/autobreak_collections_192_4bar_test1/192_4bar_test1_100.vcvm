@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Lauren-Laimant_100bpm_vocal_adlib_chest_voice_oh_ho_yeah_wet_Dmin.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Lauren-Laimant_100bpm_vocal_adlib_soft_breathy_nooo_wet_Bbmin.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Lauren-Laimant_115bpm_vocal_hook_only_for_tonight_wet_Ebmin.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Lauren-Laimant_124bpm_vocal_adlib_ohhhoh_run_chest_voice_wet_Cmaj.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Lauren-Laimant_124bpm_vocal_hook_need_ur_love_wet_Bmin.wav"
+ }
+}

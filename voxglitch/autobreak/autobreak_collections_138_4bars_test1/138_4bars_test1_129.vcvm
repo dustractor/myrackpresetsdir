@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\BOS_PSYT_FX_Crash_One_Shot_Tempz.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\BOS_PSYT_FX_Crash_One_Shot_Ups.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\BOS_PSYT_FX_Crash_One_Shot_Warrant.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Bpm140_G#_Porter Robinson meets Boards of Canada.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\BrassLoop3_140Bpm.wav"
+ }
+}

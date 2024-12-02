@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\thecxdy - armored core (drum & loop collection)\\808s\\( -_\u2022)\u2566\u0335\u0335\u033f\u2564\u2500 808 @thecxdy.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\WAV instrumentloops\\WAV guitarlicks\\28a-gte01-125a#.wav"
+ }
+}

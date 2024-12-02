@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e4 - 91V_SLU_128_vocal_chop_sunriser_acid_filter_Em.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e4 - BOS_BFA_81_Violin_Kemenc_e_Loop_Loved_Em.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e4 - BOS_BFA_81_Violin_Kemenc_e_Loop_Rounds_Em.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e6 - MF_Anastazja4_WET099 (Em).wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e6 - MF_Anastazja4_WET100 (Em).wav"
+ }
+}

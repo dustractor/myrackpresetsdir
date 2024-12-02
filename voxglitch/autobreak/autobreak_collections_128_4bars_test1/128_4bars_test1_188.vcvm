@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Cymatics - VYPR Male Vocal Wet 103 - 160 BPM F Maj - Can't Stand How That Feels.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Cymatics - VYPR Male Vocal Wet 28 - 90 BPM F# Min - Losing Myself.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Cymatics - VYPR Male Vocal Wet 76 - 128 BPM B Maj - I Love This Feeling.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Cymatics - VYPR Male Vocal Wet 77 - 128 BPM B Maj - I Love This Feeling.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Cymatics - VYPR Male Vocal Wet 78 - 128 BPM B Maj - So Sexy.wav"
+ }
+}

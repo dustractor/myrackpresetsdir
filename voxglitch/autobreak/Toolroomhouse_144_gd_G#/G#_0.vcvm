@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Toolroomhouse_144_gd\\G#\\techhousevocalswksp - T_HV3_128_vocal_chop_loop_wet_bad_Ab.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Toolroomhouse_144_gd\\G#\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_fantasy_G#.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Toolroomhouse_144_gd\\G#\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_rhythm_of_your_soul_G#.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Toolroomhouse_144_gd\\G#\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_deeper_G#.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Toolroomhouse_144_gd\\G#\\techhousevocalswksp - T_HV3_128_vocal_phrase_oneshot_wet_dont_want_you_back_Abm.wav"
+ }
+}

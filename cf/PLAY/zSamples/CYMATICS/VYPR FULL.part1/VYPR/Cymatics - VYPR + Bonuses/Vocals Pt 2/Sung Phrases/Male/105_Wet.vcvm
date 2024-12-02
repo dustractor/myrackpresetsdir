@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\CYMATICS\\VYPR FULL.part1\\VYPR\\Cymatics - VYPR + Bonuses\\Vocals Pt 2\\Sung Phrases\\Male\\Wet\\Cymatics - VYPR Male Vocal Wet 1 - 84 BPM E Min - It Gets Hard.wav"
+ }
+}

@@ -1,0 +1,92 @@
+{
+  "plugin": "Bidoo",
+  "model": "DIKTAT",
+  "version": "2.1.1",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 1.0,
+      "id": 1
+    },
+    {
+      "value": -1.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    }
+  ],
+  "data": {
+    "themeId": 0,
+    "currentChannel": 0,
+    "globalMode": true,
+    "channel0": {
+      "rootNote": -1,
+      "scale": 0
+    },
+    "channel1": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel2": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel3": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel4": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel5": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel6": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel7": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel8": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel9": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel10": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel11": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel12": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel13": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel14": {
+      "rootNote": 0,
+      "scale": 0
+    },
+    "channel15": {
+      "rootNote": 0,
+      "scale": 0
+    }
+  }
+}

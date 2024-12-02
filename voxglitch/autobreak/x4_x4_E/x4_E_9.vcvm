@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x4\\x4_E\\e4 - 91V_SLU_128_vocal_chop_sunriser_Em.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x4\\x4_E\\e4 - BLA - Feel Good 1 - E Major.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x4\\x4_E\\e4 - BLA - Feel Good 2 - E Major.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x4\\x4_E\\e4 - BLA - Pedestal 1 - E Major.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x4\\x4_E\\e4 - BLA - Pedestal 2 - E Major.wav"
+ }
+}

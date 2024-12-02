@@ -1,0 +1,14 @@
+{
+  "plugin": "NYSTHI",
+  "model": "SlimDualFixedVoltageSource",
+  "version": "2.4.23",
+  "params": [],
+  "data": {
+    "m_unipolar": false,
+    "m_abs_value": false,
+    "m_scale_mode": 1,
+    "m_poly_out": 1,
+    "m_ltf0": "3",
+    "m_ltf1": "1"
+  }
+}

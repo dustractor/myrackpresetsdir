@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\116_4bars_test1\\ZEN_DIDGE_voice_one_shot_fern_E.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\116_4bars_test1\\ZEN_MFY_116_arp_synth_loop_clementine_C.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\116_4bars_test1\\ZEN_MFY_116_bass_synth_loop_babaye_Em.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\116_4bars_test1\\ZEN_MFY_116_bass_synth_loop_clementine_C.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\116_4bars_test1\\ZEN_MFY_116_bass_synth_loop_kai_C#m.wav"
+ }
+}

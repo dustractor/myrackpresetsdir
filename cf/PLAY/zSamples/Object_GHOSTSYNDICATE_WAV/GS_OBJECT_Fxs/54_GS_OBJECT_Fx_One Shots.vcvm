@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Object_GHOSTSYNDICATE_WAV\\GS_OBJECT_Fxs\\GS_OBJECT_Fx_One Shots\\GS_OBJECT_Fx_Atmo.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\T_HV3_128_vocal_hook_loop_wet_set_me_free_F.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\T_HV3_128_vocal_hook_loop_wet_watch_the_fire_Fmaj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\T_HV3_128_vocal_phrase_loop_wet_burning_D.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\T_HV3_128_vocal_phrase_loop_wet_deeper_G#.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\T_HV3_128_vocal_phrase_loop_wet_echoes_A#.wav"
+ }
+}

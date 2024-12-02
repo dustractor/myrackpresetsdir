@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\VOCALS_BY_MATTHEW_CS_HUGHES\\US_MALE_VOCAL_06_Abm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\VOCALS_BY_MATTHEW_CS_HUGHES\\US_MALE_VOCAL_07_F#m.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\VOCALS_BY_MATTHEW_CS_HUGHES\\US_MALE_VOCAL_08_F#m.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\VOCALS_BY_MATTHEW_CS_HUGHES\\US_MALE_VOCAL_09_Bbm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\VOCALS_BY_MATTHEW_CS_HUGHES\\US_MALE_VOCAL_10_Dm.wav"
+ }
+}

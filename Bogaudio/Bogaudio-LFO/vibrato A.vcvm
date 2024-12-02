@@ -1,0 +1,39 @@
+{
+  "plugin": "Bogaudio",
+  "model": "Bogaudio-LFO",
+  "version": "2.4.45",
+  "params": [
+    {
+      "value": 2.1551830768585205,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    },
+    {
+      "value": 0.0,
+      "id": 4
+    },
+    {
+      "value": 0.01759033277630806,
+      "id": 5
+    },
+    {
+      "value": 0.0,
+      "id": 6
+    }
+  ],
+  "data": {
+    "offset_scale": 1.0,
+    "offset_cv_to_smoothing": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_everyday.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_evisceration.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_i_will_not_crash.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_i_will_not_fight.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_let_it_out.wav"
+ }
+}

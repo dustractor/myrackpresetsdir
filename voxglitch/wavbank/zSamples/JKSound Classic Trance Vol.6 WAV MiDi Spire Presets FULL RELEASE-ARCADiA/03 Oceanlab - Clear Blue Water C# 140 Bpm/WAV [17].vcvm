@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "D:\\zSamples\\JKSound Classic Trance Vol.6 WAV MiDi Spire Presets FULL RELEASE-ARCADiA\\03 Oceanlab - Clear Blue Water C# 140 Bpm\\WAV",
+  "trig_input_response_mode": 0
+ }
+}

@@ -1,0 +1,102 @@
+{
+  "plugin": "BastlPizza",
+  "model": "Crust",
+  "version": "2.0.0",
+  "params": [
+    {
+      "value": 0.29577729105949402,
+      "id": 0
+    },
+    {
+      "value": -0.19255131483078003,
+      "id": 1
+    },
+    {
+      "value": 0.31516978144645691,
+      "id": 2
+    },
+    {
+      "value": 0.33627676963806152,
+      "id": 3
+    },
+    {
+      "value": 0.30898246169090271,
+      "id": 4
+    },
+    {
+      "value": 0.69009357690811157,
+      "id": 5
+    },
+    {
+      "value": 0.1352211982011795,
+      "id": 6
+    },
+    {
+      "value": 0.46579191088676453,
+      "id": 7
+    },
+    {
+      "value": 0.0,
+      "id": 8
+    },
+    {
+      "value": 0.72276210784912109,
+      "id": 9
+    },
+    {
+      "value": 0.0,
+      "id": 10
+    },
+    {
+      "value": 0.60672581195831299,
+      "id": 11
+    },
+    {
+      "value": -0.65667265653610229,
+      "id": 12
+    },
+    {
+      "value": 0.0,
+      "id": 13
+    },
+    {
+      "value": 0.82251095771789551,
+      "id": 14
+    },
+    {
+      "value": 0.50763380527496338,
+      "id": 15
+    },
+    {
+      "value": -0.79607921838760376,
+      "id": 16
+    },
+    {
+      "value": 0.0,
+      "id": 17
+    },
+    {
+      "value": -0.11149275302886963,
+      "id": 18
+    }
+  ],
+  "data": {
+    "tuneState": 0,
+    "oscType": 2,
+    "noiseType": 0,
+    "timbreType": 0,
+    "ctrlDest": 6,
+    "directPitchEnabled": true,
+    "detuneRatioEnabled": true,
+    "disableTriggerLights": false,
+    "applySampleAndHold": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+}

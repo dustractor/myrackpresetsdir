@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "D:\\zSamples\\CYMATICS\\Cymatics Titan Sample Pack\\Cymatics Titan\\Bonuses\\Cymatics - Phoenix Live Percussion and Foley\\Toys Games and Sports\\Toy - Children",
+  "trig_input_response_mode": 0
+ }
+}

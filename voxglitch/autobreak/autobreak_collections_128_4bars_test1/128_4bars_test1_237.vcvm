@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Flute[128] C#m Guccy.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\FL_PHILO2_Vocal_Loop_Female_Spoken_Life_Happens.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\FL_PHILO2_Vocal_Loop_Female_Spoken_The_Refusal.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\FL_PHILO2_Vocal_Loop_Female_Spoken_Understand_Clearly.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Frank - Ocean.wav"
+ }
+}

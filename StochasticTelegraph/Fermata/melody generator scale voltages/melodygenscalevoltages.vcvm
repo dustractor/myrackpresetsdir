@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "0.000 - 0.833 Major\n0.834 - 1.666 Lydian\n1.667 - 2.499 Mixolydian\n2.500 - 3.333 Minor\n3.334 - 4.166 Melodic Minor\n4.167 - 5.000 Harmonic Minor\n5.001 - 5.833 Dorian\n5.834 - 6.666 Phrygian\n6.667 - 7.499 Aeolian\n7.500 - 8.333 Chromatic\n8.334 - 9.166 Raga Kafi\n9.167 - 9.999 Maqam Hijaz\n10.000 Japanese Kumoi",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "Melodygen Scale Voltages"
+  }
+}

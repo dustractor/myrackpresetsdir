@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.16",
+  "params": [],
+  "data": {
+    "text": "1   C4  No\n2   C#4 Ionian\n3   D4  Dorian\n4   D#4 Phrygian\n5   E4  Lydian\n6   F4  Mixolydian\n7   F#4 Aeolian\n8   G4  Locrian\n9   G#4 Ionian Minor\n10  A4  Dorian b9\n11  A#4 Lydian Augmented\n12  B4  Lydian Dominant\n13  C5  Mixolydian b6\n14  C#5 Aeolian Diminished\n15  D5  Super Locrian\n16  D#5 Aeolian Natural7\n17  E5  Locrian Natural6\n18  F5  Ionian Augmented\n19  F#5 Dorian #4\n20  G5  Phrygian Dominant\n21  G#5 Lydian #9\n22  A5  Super Locrian bb7\n23  A#5 Blues\n24  B5  Melodic Minor\n25  C6  Pentatonic\n26  C#6 Pentatonic m7\n27  D6  Pentatonic m6\n28  D#6 Pentatonic M7\n29  E6  Whole Tone\n30  F6  Sym 124\n31  F#6 Sym 134\n32  G6  Diminished\n33  G#6 Dominant Diminished\n34  A6  Augmented\n35  A#6 Bebop Major\n36  B6  Bebop Dominant\n37  C7  Bebop Dorian\n38  C#7 Bebop Melodic\n39  D7  Bebop Harmonic\n40  D#7 Bebop Locrian\n41  E7  Persian\n42  F7  Hirojoshi\n43  F#7 Arabian\n44  G7  Scottish\n45  G#7 Turkish\n46  A7  Chromatic\n",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}

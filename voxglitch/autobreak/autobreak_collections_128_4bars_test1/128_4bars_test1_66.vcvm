@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Amen05 MPC1000 Stretch Faster.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\AMEN45-cassette 1.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\amenren.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\ANMLPrim_Capuchin Monkey Hyped Chirping Vocalizations 019_PSE_WCCM_DXVkN.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\128_4bars_test1\\Antidote Limitless - 128BPM - Dmin Vocal Loop.wav"
+ }
+}

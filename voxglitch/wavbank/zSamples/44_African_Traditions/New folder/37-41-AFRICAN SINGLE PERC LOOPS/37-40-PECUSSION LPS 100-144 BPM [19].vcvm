@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "D:\\zSamples\\44_African_Traditions\\New folder\\37-41-AFRICAN SINGLE PERC LOOPS\\37-40-PECUSSION LPS 100-144 BPM",
+  "trig_input_response_mode": 0
+ }
+}

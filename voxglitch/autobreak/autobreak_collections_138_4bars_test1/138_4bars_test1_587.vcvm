@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\SPM2_140_A_Female_Adlib_Mantra_Vocal_02_Dry.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\SPM2_140_A_Female_Gated_Vocal_02_Dry.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\SPM2_140_A_Female_Gated_Vocal_04_Dry.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\SPM2_140_A_Synth_Loop_10_Swing.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\SPM2_140_C#_Female_Gated_Vocal_03_Triplet_Dry.wav"
+ }
+}

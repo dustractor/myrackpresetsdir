@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vocal Chop Loop 7 - Em 140 BPM.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vocal Chop Loop 8 - A#m 140 BPM.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vocal Loop 21 - 140 C.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vocal Loop 22 - 140 Dm.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vocal Loop 23 - 140 Dm.wav"
+ }
+}

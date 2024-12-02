@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\CYMATICS\\Cymatics Omega.part1\\Cymatics Omega\\OMEGA\\Cymatics - Omega Production Suite Pt 5\\Vocals\\Vocal Ad Libs\\Dry\\Cymatics - Omega Dry Ad Lib 1 - 100 BPM F# Min.wav"
+ }
+}

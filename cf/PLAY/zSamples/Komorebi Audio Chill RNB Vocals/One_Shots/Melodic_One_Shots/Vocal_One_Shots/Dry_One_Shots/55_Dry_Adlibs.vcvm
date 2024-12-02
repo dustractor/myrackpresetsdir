@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Komorebi Audio Chill RNB Vocals\\One_Shots\\Melodic_One_Shots\\Vocal_One_Shots\\Dry_One_Shots\\Dry_Adlibs\\KMRBI_CRV_vocal_adlib_one_shot_and_on_dry_Cm.wav"
+ }
+}

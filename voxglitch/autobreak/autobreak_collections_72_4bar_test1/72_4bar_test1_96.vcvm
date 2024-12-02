@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Look Mum No Drums - Ambience 1.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\LOOP-KILLSTREET.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\looperman-l-3272682-0185488-lil-uzi-vert-x-juice-wrld-melody (2).wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\looperman-l-3272682-0192398-young-thug-x-drake-x-travis-scott-hard-piano-melody.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Loop_2053.wav"
+ }
+}

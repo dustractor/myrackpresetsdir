@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Abundance_Talents.wav"
+ }
+}

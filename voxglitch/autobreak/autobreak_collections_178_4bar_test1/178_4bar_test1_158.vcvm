@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR R&B Percussion Loop 3 - 90 BPM.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Rainstick One Shot 3.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Rap Phrase 10 - 90 BPM - Check It.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Rap Phrase 14 - 90 BPM - Drop It For Me.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Rap Phrase 15 - 90 BPM - Flooded Rollies.wav"
+ }
+}

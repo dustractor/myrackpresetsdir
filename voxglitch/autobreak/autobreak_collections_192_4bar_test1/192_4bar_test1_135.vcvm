@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\R.F.P Oneshot (30).wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\randomsx_004.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Rare Earth - Get Ready (part2).wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Rare Earth - Get Ready (part3).wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\192_4bar_test1\\Rez_Sweep_C.wav"
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.16",
+  "params": [],
+  "data": {
+    "text": "B#  G#m\nA#  D#m\nC#  A#m\nG#  Fm\nD#  Cm\nA#  Gm\nF   Dm\nC   Am\nG   Em\nD   Bm\nA   F#m\nE   C#m\nB   G#m\nF#  D#m\nC#  A#m\n",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}

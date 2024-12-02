@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "0.000 - 0.909 = C\n0.910 - 1.818 = C#\n1.819 - 2.727 = D\n2.728 - 3.636 = D#\n3.637 - 4.545 = E\n4.546 - 5.454 = F\n5.455 - 6.363 = F#\n6.364 - 7.272 = G\n7.273 - 8.181 = G#\n8.182 - 9.090 = A\n9.091 - 9.999 = A#\n10.000 = B",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "JW NoteSeq Root Voltages"
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x4\\x4_F#\\e3 - 91V_SLU_124_vocal_chop_inside_mind_F#m.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x4\\x4_F#\\e4 - GIO_ANTL_80_saz_strings_classic_hijaz_F#m.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x4\\x4_F#\\e4 - GIO_ANTL_80_saz_strings_cool_hijaz_F#m.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x4\\x4_F#\\e4 - GIO_ANTL_80_saz_strings_hook_hijaz_F#m.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x4\\x4_F#\\e4 - GIO_ANTL_80_saz_strings_nice_hijaz_F#m.wav"
+ }
+}

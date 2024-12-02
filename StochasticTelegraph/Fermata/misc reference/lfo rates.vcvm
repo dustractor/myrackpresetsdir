@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "2 bars  0.5\n\n4 bars 0.25\n\n8 bars 0.125\n\n16 bars 0.0625\n\n32 bars 0.03125\n\n64 bars 0.015625\n\n128 bars 0.0078125",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}

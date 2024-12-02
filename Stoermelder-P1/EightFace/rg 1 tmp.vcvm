@@ -1,0 +1,306 @@
+{
+  "plugin": "Stoermelder-P1",
+  "model": "EightFace",
+  "version": "2.0.beta4",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    },
+    {
+      "value": 0.0,
+      "id": 4
+    },
+    {
+      "value": 0.0,
+      "id": 5
+    },
+    {
+      "value": 0.0,
+      "id": 6
+    },
+    {
+      "value": 0.0,
+      "id": 7
+    },
+    {
+      "value": 0.0,
+      "id": 8
+    }
+  ],
+  "data": {
+    "panelTheme": -1,
+    "mode": 0,
+    "pluginSlug": "Bogaudio",
+    "modelSlug": "RGATE",
+    "realPluginSlug": "Bogaudio",
+    "realModelSlug": "Bogaudio-RGate",
+    "moduleName": "Bogaudio RGATE",
+    "slotCvMode": 2,
+    "preset": 1,
+    "presetCount": 8,
+    "presetCountLongPress": true,
+    "presets": [
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.32650601863861084,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.21084342896938324,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.2843373715877533,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.22409641742706299,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.12530121207237244,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.19156622886657715,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.0,
+              "id": 1
+            },
+            {
+              "value": 0.0,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      },
+      {
+        "slotUsed": true,
+        "slot": {
+          "id": 5511811298357837,
+          "plugin": "Bogaudio",
+          "model": "Bogaudio-RGate",
+          "version": "2.4.45",
+          "params": [
+            {
+              "value": 0.5,
+              "id": 0
+            },
+            {
+              "value": 0.092771060764789581,
+              "id": 1
+            },
+            {
+              "value": 0.30963853001594543,
+              "id": 2
+            }
+          ],
+          "rightModuleId": 7988402816995760,
+          "data": {
+            "range_offset": 1.0,
+            "range_scale": 5.0,
+            "reset_mode": 0,
+            "initial_clock_seconds": 0.5,
+            "poly_input": 4
+          }
+        }
+      }
+    ]
+  }
+}

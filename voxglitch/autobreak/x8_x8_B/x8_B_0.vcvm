@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e3 - 91V_ATV_145_vocal_chop_uplifter_pattern_B.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_adlib_baby_boo_wet_Bm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_adlib_celestial_wet_Bm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_adlib_dream_state_wet_Bm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_adlib_lioness_wet_Bm.wav"
+ }
+}

@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "138 bpm\n1/4 435ms\n1/8 217ms\n1/16 109ms\n\n t/1/64 55.2hz ~ A\n\n144 bpm\n1/4 417ms\n1/8 208ms\n1/16 104ms\n\nt1/64 57.6hz ~ Bb\n\n135 bpm\n1/4 444ms\n1/8 222ms\n1/16 111ms\n\nt1/64 54hz ~ A\n\n\n",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}

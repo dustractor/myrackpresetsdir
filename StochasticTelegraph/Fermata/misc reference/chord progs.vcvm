@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.15",
+  "params": [],
+  "data": {
+    "text": "Folia\ni | V | i | VII | III | VII | i   | V |\ni | V | i | VII | III | VII | i V | i\n\nAm | E | Am | G | C  | G | Am   | E\nAm | E | Am | G | C  | G | Am E | Am\n\n-------------------------------\nPassamezzo\ni  | VII | i  | V | III | VII | i  V | i\n\nAm | G   | Am | E | C   | G   | Am E | Am\n------------------------------\nRomanesca\nIII | VII | i | V | III | VII | i V | i\n\nC | G | Am | E | C | G | Am E | Am\n--------\ni-VII-III(add9)-IV-i\nI-iii7-vi-IV\ni-VI-III-VII\ni-III-VII-VI\ni-III-VI-VII-iv-v-VI-VII\ni-VI-III-III6/4-i-VI-III-V/i(maj)\niv-v-VI-i-III-VI\ni7-v-VII-III\nVI-iv7-i-VII\nVI7-v7-i7-iv7sus2-v7-VI7\ni-iv-VI_iv7sus4-VII-i-i7_i-iv-VI-iv7sus4-VII-i7-iadd9\ni7-III-v7-IV\ni-VII-IV6(Dor)-VI\nv(min)-iisus4-v(min)-ii-iisus4-ii-IV-IV-IV\nVI-i-III-VII\ni-VIIadd9-VI-IV(maj)-i-VIIadd9-VI-IV(maj)-VII\ni-v64-ii6-Isus4-I\ni-vsus4-v-iv-VI-VII\nVI-VII-v-i-VII\niv-i-v-VI-v\ni-III-VII-VI\niv-VI7-i-v-i6\ni_ii6-VII-IV64\ni-VII-VI-VI-VII-iv-iv-v-VI-VI-VII-i\nI-ii-IV-IV\nIV-vi-V-I-IV\nIII_iv6-i\ni-v7-iv7-VI-VIIsus2\ni-III-VI-III\ni-VII-iv7-v7-v\ni-VI-III-VII\ni-VI-VII-iv\nIII-IIIsus2-VII-V6-V-i-VII6-III\n(IV-i7-VII)x3-iv-VI-V\nIV7-IV7sus2-I(add9)-I7-IV7-vi7-I(add9)-I7\ni-VII-III64-V64-VII-i-i-VII-III-V-VII-i\nVI-i-VII-VI-VII-i-VII\ni-VII-III-VI-V(maj)-i-VII-III-VI-VII\ni-VII-VI-iv7-VI-VI-VII-i-VII-i\nVI-iv-Imix-i-III-III6-III64-VI-III-Imix-i-III-III6-III64\nVIadd9-i7-VII-V-VIadd9-i7\nI-iii64-vi-IV\ni-VI-VII-iv\nIV-I-vi-V\niv7-VI-i7-VII\nvi7-V-IVsus2-I6-ii7-V7sus4\nvi-IV-ii-IV-V-vi\nIV-V-I-I6-IV-I6-V11\ni-VI-VII-III\n",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Medium.ttf"
+  }
+}

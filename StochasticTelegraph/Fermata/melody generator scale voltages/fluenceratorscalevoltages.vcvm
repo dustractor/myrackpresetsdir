@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "-5.000 - -4.167 Major\n-4.166 - -3.334 Dorian\n-3.333 - -2.500 Phrygian\n-2.499 - -1.667 Lydian\n-1.666 - -0.833 Mixolydian\n-0.832 - 0.000 Minor\n0.001 - 0.833 Locrian\n0.834 - 1.667 Double Harmonic Major\n1.668 - 2.500 Double Harmonic Minor\n2.501 - 3.334 Hexatonic Blues\n3.335 - 4.167 Bebop Dominant\n4.168 - 5.000 Major Pentatonic",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "Fluencerator Scale Voltages"
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Zenhiser Didge Didgeridoo\\one_shots\\trance_rhythms\\ZEN_DIDGE_160_didgeridoo_trance_rhyhtm_harlequin_C.wav"
+ }
+}

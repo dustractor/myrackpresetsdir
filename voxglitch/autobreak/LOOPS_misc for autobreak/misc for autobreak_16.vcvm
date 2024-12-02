@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_92_Blocks_percussion_loop_lab.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_92_Blocks_percussion_loop_prospect.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_92_Bongo_loop_feel.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_92_Bongo_loop_go.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_92_Bongo_loop_point.wav"
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "-5.000 - -4.166 = C\n-4.165 - -3.332 = C#\n-3.331 - -2.498 = D\n-2.497 - -1.664 = D#\n-1.663 - -0.830 = E\n-0.829 - 0.004 = F\n0.005 - 0.838 = F#\n0.839 - 1.672 = G\n1.673 - 2.506 = G#\n2.507 - 3.340 = A\n3.341 - 4.174 = A#\n4.175 - 5.00 = B",
+    "width": 16,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "Fluencerator Root Voltages"
+  }
+}

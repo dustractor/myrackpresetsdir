@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_Yes_A#.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_Your_Desire_F.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_You_C#_3.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_You_G_1.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_You_G_2.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e3 - 91V_SLU_124_vocal_hook_sweet_lies_lead_wet_Am.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e3 - 91V_SLU_124_vocal_loop_by_your_side_delay_Am.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e3 - 91V_SLU_124_vocal_phrase_good_love_formant_wet_Am.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e3 - 91V_SLU_124_vocal_phrase_good_love_lead_wet_Am.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_A\\e3 - 91V_SLU_124_vocal_phrase_good_love_stack_wet_Am.wav"
+ }
+}

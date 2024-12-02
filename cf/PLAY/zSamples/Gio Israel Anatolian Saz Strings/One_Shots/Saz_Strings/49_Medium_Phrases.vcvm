@@ -1,0 +1,22 @@
+{
+ "plugin": "cf",
+ "model": "PLAY",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "lastPath": "c:\\zSamples\\Gio Israel Anatolian Saz Strings\\One_Shots\\Saz_Strings\\Medium_Phrases\\GIO_ANTL_saz_strings_phrase_medium_beauty_nikriz_C#m.wav"
+ }
+}

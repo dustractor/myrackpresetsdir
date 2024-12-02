@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Roundel Vocal Space\\Back Vocal 1 - dry.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Roundel Vocal Space\\Back Vocal 1 - wet.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Roundel Vocal Space\\Back Vocal 2 - dry.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Roundel Vocal Space\\Back Vocal 2 - wet.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Roundel Vocal Space\\Back Vocals - dry.wav"
+ }
+}

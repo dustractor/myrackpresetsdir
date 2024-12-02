@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\270_for_autobreak\\28c-prc23-125.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\270_for_autobreak\\28c-prc24-125.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\270_for_autobreak\\28c-prc25-125.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\270_for_autobreak\\28c-prc26-125.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\270 Drum Loops\\270 Drum Loops\\270_for_autobreak\\28c-prc27-125.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_He_Will_Love_You_C.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_Higher_B.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_In_This_World_D.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_In_Your_Head_C.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Essential Pop Vocals\\Phrases\\FHVP_I_Am_Guest_D.wav"
+ }
+}

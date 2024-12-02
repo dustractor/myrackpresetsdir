@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\MO_YFBOB_140_drum_break_rimshot.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\MO_YFBOB_140_top_loop_light_snare_groove.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\MO_YFBOB_140_top_loop_snare_groove.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\MO_YFBOB_texture_rattling_percussion_ambience.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Murda Beatz - Not Nice Percs (165).wav"
+ }
+}

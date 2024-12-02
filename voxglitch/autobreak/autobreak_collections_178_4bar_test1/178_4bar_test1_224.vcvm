@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\NW_EE_90_drum_speed_crunch_transition.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\NW_EE_90_songstarter_crunch_chop_flange_F#.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\NW_EE_90_songstarter_tape_chop_hard_sweep_Fm.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\NW_EE_fx_synth_arp_bleeper_Bb.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Nxsty V4 - Mysterious Vox.wav"
+ }
+}

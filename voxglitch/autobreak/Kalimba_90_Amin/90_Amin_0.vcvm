@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\Kalimba\\90_Amin\\RARE_AP3_90_Kalimba_loop_Amin_bap.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\Kalimba\\90_Amin\\RARE_AP3_90_Kalimba_loop_Amin_bet.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\Kalimba\\90_Amin\\RARE_AP3_90_Kalimba_loop_Amin_booom.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\Kalimba\\90_Amin\\RARE_AP3_90_Kalimba_loop_Amin_effect.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\Kalimba\\90_Amin\\RARE_AP3_90_Kalimba_loop_Amin_energy.wav"
+ }
+}

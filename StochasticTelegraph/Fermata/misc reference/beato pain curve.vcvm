@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.15",
+  "params": [],
+  "data": {
+    "text": "63 Hz & below = 0 dB\n80 Hz = -1.4 dB\n100 Hz = -2.9 dB\n125 Hz = -4.2 dB\n160 Hz = -6 dB\n200 Hz = -3 dB\n250 Hz = -4.5 dB\n315 Hz = -3 dB\n400 Hz = -3.9 dB\n500 Hz = -4.8 dB\n630 Hz = -6 dB\n800 Hz = -4.5 dB\n1k Hz = -3.3 dB\n1.25k Hz = -4dB\n1.6k Hz = -4.3 dB\n2k Hz = -6 dB\n2.5k Hz = -4.5 dB\n3.15k Hz = -3.6 dB\n4k Hz = -1.9 dB\n5k Hz & above = 0 dB",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}

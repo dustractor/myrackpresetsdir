@@ -1,0 +1,13 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.13",
+  "params": [],
+  "data": {
+    "text": "C   D   E   F   G   A   B   C\nC#  D#  F   F#  G#  A#  C   C#\nD   E   F#  G   A   B   C#  D\nD#  F   G   G#  A#  C   D   D#\nE   F#  G#  A   B   C#  D#  E\nF   G   A   A#  C   D   E   F\nF#  G#  A#  B   C#  D#  F   F#\nG   A   B   C   D   E   F#  G\nG#  A#  C   C#  D#  F   G   G#\nA   B   C#  D   E   F#  G#  A\nA#  C   D   D#  F   G   A   A#\nB   C#  D#  E   F#  G#  A#  B",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoMono-Bold.ttf",
+    "title_text": "Major Scale Notes"
+  }
+}

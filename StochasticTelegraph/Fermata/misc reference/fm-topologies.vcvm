@@ -1,0 +1,12 @@
+{
+  "plugin": "StochasticTelegraph",
+  "model": "Fermata",
+  "version": "2.0.17",
+  "params": [],
+  "data": {
+    "text": "1 = 4>3>2>1\n2 = (4+3)>2>1\n3 = ((4>3)+2)>1\n4 = 4>(3+2)>1\n5 = 4>3>(2+1)\n6 = 4>(1+2+3)\n7 = (4+3+2)>1\n8 = (4>2)+(3>1)\n9 = (4>2)+(4+3)>1\n10 = (4+3)>(2+1)",
+    "width": 18,
+    "screen_colors": 281200098803712,
+    "font_choice": "fonts/RobotoSlab-Regular.ttf"
+  }
+}
