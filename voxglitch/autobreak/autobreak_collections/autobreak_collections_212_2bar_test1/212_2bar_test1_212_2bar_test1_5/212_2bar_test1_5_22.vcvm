@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\SC_AF_flute_fx_chord_bright_sustained_Gmaj.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\sebastianvaih _ bass\u207404 (15).wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Shot_5010.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Shot_5016.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Shot_5029.wav"
+ }
+}

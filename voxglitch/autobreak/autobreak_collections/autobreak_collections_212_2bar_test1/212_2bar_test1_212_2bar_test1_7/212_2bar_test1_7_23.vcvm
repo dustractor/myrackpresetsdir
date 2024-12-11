@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_7\\TP_Djembe4_Slap_MV3.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_7\\TP_Mighty_Mid2.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_7\\TRKTRN_ICV1_Synth_Lead_One_Shot_Newspot_C.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_7\\TS_HIHAT_hats_14_washy.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_7\\WONDAGURL_808_11_Bb.wav"
+ }
+}

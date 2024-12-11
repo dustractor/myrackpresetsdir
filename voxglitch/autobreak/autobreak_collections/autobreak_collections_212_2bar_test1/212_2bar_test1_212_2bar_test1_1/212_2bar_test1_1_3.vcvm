@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\8 BIG ROOM - STONEWIRE - GLITCH MAGIC.COM.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\AKV_ttk_bass_oneshot_dinosaurs_4_D.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\BOS_BFA_Pontic_Kemenc_e_One_Shot_Motion_C.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\BOS_KCJ_Vocal_Adlib_One_Shot_ListenUp_Wet_Gm.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\BOS_KCJ_Vocal_Adlib_One_Shot_PumpUpTheBassline_Wet_Gm.wav"
+ }
+}

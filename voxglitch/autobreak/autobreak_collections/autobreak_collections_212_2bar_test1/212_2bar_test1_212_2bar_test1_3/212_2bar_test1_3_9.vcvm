@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_3\\Cymatics - Titan Impact 16.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_3\\Cymatics - Trap & 808s 808 53 - F.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_3\\Cymatics - Trinity Boobam Fill 3.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_3\\Cymatics - VYPR Classic Crash 7.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_3\\Cymatics - VYPR Distorted 808 17 - D#.wav"
+ }
+}

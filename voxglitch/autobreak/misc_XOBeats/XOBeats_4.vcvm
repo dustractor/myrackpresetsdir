@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_150047 120bpm And I Can't Help - var 3.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_150207 120bpm And I Can't Help - var 3.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_150306 120bpm 4 On The Floor.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_150343 120bpm 4 On The Floor.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_150431 120bpm 4 On The Floor.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\GLITCHMAGIC.COM spokes 2.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\GLITCHMAGIC.COM sustained_tones 29.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\GREEK_LOOP-PERCS-110-RiqKaripis1.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\GREEK_LOOP-PERCS-110-RiqKaripis2.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_1\\GS_4AMDNB_Fx_Atmos_07.wav"
+ }
+}
