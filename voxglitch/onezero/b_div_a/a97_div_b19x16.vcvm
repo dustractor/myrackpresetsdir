@@ -1,0 +1,26 @@
+{
+ "plugin": "voxglitch",
+ "model": "onezero",
+ "version": "2.32.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 0.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  },
+  {
+   "value": 1.0,
+   "id": 3
+  }
+ ],
+ "data": {
+  "path": "C:\\Users\\user\\Documents\\Github\\numbersequences\\b_div_a\\a97_div_b19x16.txt"
+ }
+}
