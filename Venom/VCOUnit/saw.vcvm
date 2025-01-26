@@ -1,7 +1,7 @@
 {
   "plugin": "Venom",
   "model": "VCOUnit",
-  "version": "2.10.0",
+  "version": "2.11.1",
   "params": [
     {
       "value": 0.0,
@@ -40,7 +40,7 @@
       "id": 8
     },
     {
-      "value": 0.0,
+      "value": 5.0,
       "id": 9
     },
     {
@@ -52,7 +52,7 @@
       "id": 11
     },
     {
-      "value": -0.5,
+      "value": 0.0,
       "id": 12
     },
     {
@@ -115,7 +115,7 @@
     "paramName8": "Linear FM",
     "paramLock9": false,
     "paramDflt9": 0.0,
-    "paramVal9": 0.0,
+    "paramVal9": 5.0,
     "paramName9": "Shape Mode",
     "paramLock10": false,
     "paramDflt10": 0.0,
@@ -127,7 +127,7 @@
     "paramName11": "Shape CV amount",
     "paramLock12": false,
     "paramDflt12": 0.0,
-    "paramVal12": -0.5,
+    "paramVal12": 0.0,
     "paramName12": "Phase",
     "paramLock13": false,
     "paramDflt13": 0.0,
@@ -162,6 +162,7 @@
     "inputName10": "Level CV",
     "outputName0": "",
     "currentTheme": 0,
+    "oversampleStages": 3,
     "disableOver": [
       false,
       false,
@@ -180,6 +181,8 @@
     "linDCCouple": false,
     "overParam": 2,
     "clampLevel": true,
-    "shapeModeParam": 0
+    "disableDPW": true,
+    "syncAt0": false,
+    "shapeModeParam": 5
   }
 }
