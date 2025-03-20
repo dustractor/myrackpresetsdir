@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Touch Loops Form and Focus\\Loops\\Drum_Loops\\TL_FF_170_Drum_Loop_Bounce.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Touch Loops Form and Focus\\Loops\\Drum_Loops\\TL_FF_170_Drum_Loop_Classics.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Touch Loops Form and Focus\\Loops\\Drum_Loops\\TL_FF_170_Drum_Loop_Organics.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Touch Loops Form and Focus\\Loops\\Drum_Loops\\TL_FF_170_Drum_Loop_Percer.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Touch Loops Form and Focus\\Loops\\Drum_Loops\\TL_FF_170_Drum_Loop_Thump.wav"
+ }
+}

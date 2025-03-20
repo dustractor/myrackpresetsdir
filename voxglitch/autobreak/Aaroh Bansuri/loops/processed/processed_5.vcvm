@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_160_bansuri_processed_morning_radio_D#maj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_162_bansuri_processed_jupitor_A#.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_64_bansuri_processed_mysticism_C.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_70_bansuri_processed_avant_garde_Gmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_70_bansuri_processed_bechaini_Bbmaj.wav"
+ }
+}

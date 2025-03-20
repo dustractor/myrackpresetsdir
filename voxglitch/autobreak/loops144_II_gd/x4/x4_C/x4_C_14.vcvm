@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C\\e3 - 91V_ATV_140_vocal_chop_uber_slice_C.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C\\e4 - 91V_SLU_128_vocal_chop_love_forever_Cm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C\\e4 - BLA - Give It Away 1 - C Melodic Minor.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C\\e4 - BLA - Give It Away 2 - C Melodic Minor.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C\\e4 - BLA - I_ll Find You 1 - C Major.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_G\\e3 - 91V_ATV_140_vocal_hook_can_we_get_higher_lead_wet_Gm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_G\\e3 - 91V_ATV_140_vocal_hook_found_what_im_looking_for_double_wet_Gm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_G\\e3 - 91V_ATV_140_vocal_hook_found_what_im_looking_for_lead_wet_Gm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_G\\e3 - 91V_ATV_140_vocal_hook_more_than_a_fantasy_double_wet_Gm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_G\\e3 - 91V_ATV_140_vocal_hook_more_than_a_fantasy_lead_wet_Gm.wav"
+ }
+}

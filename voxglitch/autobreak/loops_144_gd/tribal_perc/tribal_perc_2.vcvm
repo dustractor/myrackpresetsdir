@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops_144_gd\\tribal_perc\\5p_tribal_percussion_144 - Track 108.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops_144_gd\\tribal_perc\\5p_tribal_percussion_144 - Track 109.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops_144_gd\\tribal_perc\\5p_tribal_percussion_144 - Track 11.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops_144_gd\\tribal_perc\\5p_tribal_percussion_144 - Track 110.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops_144_gd\\tribal_perc\\5p_tribal_percussion_144 - Track 111.wav"
+ }
+}

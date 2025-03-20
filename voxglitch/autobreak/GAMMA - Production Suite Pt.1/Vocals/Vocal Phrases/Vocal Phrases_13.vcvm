@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 66 - (126BPM) - Ice - Cream.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 67 - (126BPM) - ICE.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 68 - (140BPM) - Killers.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 69 - (140BPM) - Killers #2.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 70 - (140BPM) - Break.wav"
+ }
+}

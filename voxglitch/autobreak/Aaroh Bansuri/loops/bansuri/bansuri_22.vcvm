@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_fisalna_Amin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_high_notes_Bbmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_hindi_lofi_Amin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_inkaar_Fmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_lagan_Dmin.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Reborn - 133 BPM E Maj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Right Track - 82 BPM E Maj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Silver - 125 BPM B Maj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Sport - 144 BPM E Maj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - The Beginning - 160 BPM C# Min.wav"
+ }
+}

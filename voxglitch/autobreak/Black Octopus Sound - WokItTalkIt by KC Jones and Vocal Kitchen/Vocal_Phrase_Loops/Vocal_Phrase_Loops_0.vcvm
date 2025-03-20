@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Phrase_Loops\\BOS_KCJ_114_Vocal_Phrase_Loop_Afterbeat_Dry_G.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Phrase_Loops\\BOS_KCJ_114_Vocal_Phrase_Loop_Afterbeat_Wet_G.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Phrase_Loops\\BOS_KCJ_114_Vocal_Phrase_Loop_ThurnUpTheVolume_Dry_G.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Phrase_Loops\\BOS_KCJ_114_Vocal_Phrase_Loop_ThurnUpTheVolume_Pitched_Wet_G.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Phrase_Loops\\BOS_KCJ_114_Vocal_Phrase_Loop_ThurnUpTheVolume_Wet_G.wav"
+ }
+}

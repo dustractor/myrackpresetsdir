@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Moonboy Eclipse Production Suite\\MOONBOY - Neon Vocal Collection\\MOONBOY - Neon Vocal Loops\\MOONBOY - Vocal Loop 16 - 170BPM Eb Minor.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Moonboy Eclipse Production Suite\\MOONBOY - Neon Vocal Collection\\MOONBOY - Neon Vocal Loops\\MOONBOY - Vocal Loop 17 - 128BPM A Minor.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Moonboy Eclipse Production Suite\\MOONBOY - Neon Vocal Collection\\MOONBOY - Neon Vocal Loops\\MOONBOY - Vocal Loop 18 - 128BPM A Major.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Moonboy Eclipse Production Suite\\MOONBOY - Neon Vocal Collection\\MOONBOY - Neon Vocal Loops\\MOONBOY - Vocal Loop 19 - 135BPM F Major.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Moonboy Eclipse Production Suite\\MOONBOY - Neon Vocal Collection\\MOONBOY - Neon Vocal Loops\\MOONBOY - Vocal Loop 20 - 135BPM G# Minor.wav"
+ }
+}

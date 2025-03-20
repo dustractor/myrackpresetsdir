@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Audiomodern Deconstruct Vol.2\\loops\\kit_loops\\for_autobreak2\\AM_DCT_125_Full_Note_Gbmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Audiomodern Deconstruct Vol.2\\loops\\kit_loops\\for_autobreak2\\AM_DCT_125_Full_Proof_Bmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Audiomodern Deconstruct Vol.2\\loops\\kit_loops\\for_autobreak2\\AM_DCT_125_Full_Recruit_Fmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Audiomodern Deconstruct Vol.2\\loops\\kit_loops\\for_autobreak2\\AM_DCT_125_Full_Relief_Amin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Audiomodern Deconstruct Vol.2\\loops\\kit_loops\\for_autobreak2\\AM_DCT_125_Full_Session_Dmin.wav"
+ }
+}

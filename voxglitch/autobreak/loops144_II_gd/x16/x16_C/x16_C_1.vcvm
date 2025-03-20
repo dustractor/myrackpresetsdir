@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x16\\x16_C\\e4 - BOS_BFA_70_Violin_Kemenc_e_Loop_Checks_C.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x16\\x16_C\\e4 - BOS_BFA_82_Violin_Kemenc_e_Loop_Thrown_C.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x16\\x16_C\\e4 - BOS_BFA_90_Violin_Kemenc_e_Loop_Reset_C.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x16\\x16_C\\e4 - BOS_BFA_96_Violin_Kemenc_e_Loop_Again_C.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x16\\x16_C\\e4 - BOS_BFA_98_Violin_Kemenc_e_Loop_Special_C.wav"
+ }
+}

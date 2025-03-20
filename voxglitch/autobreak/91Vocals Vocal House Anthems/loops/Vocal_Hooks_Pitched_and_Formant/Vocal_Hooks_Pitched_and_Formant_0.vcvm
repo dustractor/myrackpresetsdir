@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_120_vocal_hook_pitched_lights_go_out_wet_F.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_120_vocal_hook_pitched_on_night_like_these_dry_D#.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_120_vocal_hook_pitched_on_night_like_these_wet_D#.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_125_vocal_hook_formant_when_i_needed_you_wet_Dm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_126_vocal_hook_formant_giving_feelings_dry_Bm.wav"
+ }
+}

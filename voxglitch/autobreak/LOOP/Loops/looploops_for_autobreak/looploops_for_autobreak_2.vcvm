@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\110.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\115 bpm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\118 harp.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\119 loo0p.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\119 pluck loop.wav"
+ }
+}

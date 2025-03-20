@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_128_Bm\\Dry\\91V_SLU_128_vocal_phrase_all_i_ever_wanted_dry_Bm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_128_Bm\\Dry\\91V_SLU_128_vocal_phrase_dont_let_me_down_dry_Bm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_128_Bm\\Dry\\91V_SLU_128_vocal_phrase_hold_on_to_me_dry_Bm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_128_Bm\\Dry\\91V_SLU_128_vocal_phrase_i_aint_got_your_love_dry_Bm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_128_Bm\\Dry\\91V_SLU_128_vocal_phrase_take_me_away_double_dry_Bm.wav"
+ }
+}

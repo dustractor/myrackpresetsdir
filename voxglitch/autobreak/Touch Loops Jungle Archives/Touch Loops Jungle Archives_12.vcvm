@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Touch Loops Jungle Archives\\TL_JB_Drum_Loops_Jungle_Break_Scattered_167.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Touch Loops Jungle Archives\\TL_JB_Drum_Loops_Jungle_Break_Scattered_168.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Touch Loops Jungle Archives\\TL_JB_Drum_Loops_Jungle_Break_Scattered_Energy_165.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Touch Loops Jungle Archives\\TL_JB_Drum_Loops_Jungle_Break_Sharp_168.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Touch Loops Jungle Archives\\TL_JB_Drum_Loops_Jungle_Break_Slippy_167.wav"
+ }
+}

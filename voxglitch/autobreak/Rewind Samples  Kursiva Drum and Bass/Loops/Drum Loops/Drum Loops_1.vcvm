@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Drum Loops\\RWS_KRS_06_Drums_175.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Drum Loops\\RWS_KRS_07_Drums_175.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Drum Loops\\RWS_KRS_07_Drums_VAR_175.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Drum Loops\\RWS_KRS_08_Drums_175.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Drum Loops\\RWS_KRS_09_Drums_178.wav"
+ }
+}

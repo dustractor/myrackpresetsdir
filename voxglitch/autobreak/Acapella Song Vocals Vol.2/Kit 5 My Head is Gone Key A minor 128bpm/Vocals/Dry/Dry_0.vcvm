@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Acapella Song Vocals Vol.2\\Kit 5 My Head is Gone Key A minor 128bpm\\Vocals\\Dry\\Kit 5 Dry Adlibs Vocals Key A minor 128bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Acapella Song Vocals Vol.2\\Kit 5 My Head is Gone Key A minor 128bpm\\Vocals\\Dry\\Kit 5 Dry Back Vocals Key A minor 128bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Acapella Song Vocals Vol.2\\Kit 5 My Head is Gone Key A minor 128bpm\\Vocals\\Dry\\Kit 5 Dry Full Vocals Key A minor 128bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Acapella Song Vocals Vol.2\\Kit 5 My Head is Gone Key A minor 128bpm\\Vocals\\Dry\\Kit 5 Dry Harmony Vocals Key A minor 128bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Acapella Song Vocals Vol.2\\Kit 5 My Head is Gone Key A minor 128bpm\\Vocals\\Dry\\Kit 5 Dry Lead Vocal Key A minor 128bpm.wav"
+ }
+}

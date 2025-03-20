@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Keys.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\KMRBI_CRV_vocal_stack_one_shot_sing_wet_Emaj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Kubelwagen_t17_Var_SFX_Replacing_Gas_Can_Interior_AMBEO3.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Lauren-Laimant_124bpm_vocal_hook_dont_let_go_wet_Cmin.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Leah Culver - Ad Lib Dry 3 - 147 BPM A Min.wav"
+ }
+}

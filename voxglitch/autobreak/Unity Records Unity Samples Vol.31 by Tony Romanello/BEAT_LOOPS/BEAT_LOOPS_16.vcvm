@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_09_CONGA_130BPM_D.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_09_HATS_130BPM.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_09_KICK_130BPM.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_09_PERCUSSION_130BPM.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_09_RIDES_130BPM.wav"
+ }
+}

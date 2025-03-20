@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Touch Loops West African Vocal Cuts\\Vocal_Loops\\TL_WA_113_Vocal_Loop_Ebideye_Gm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Touch Loops West African Vocal Cuts\\Vocal_Loops\\TL_WA_113_Vocal_Loop_Eyewofe_Cm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Touch Loops West African Vocal Cuts\\Vocal_Loops\\TL_WA_113_Vocal_Loop_HaYKum_Full_Gm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Touch Loops West African Vocal Cuts\\Vocal_Loops\\TL_WA_113_Vocal_Loop_HaYKum_High_Harmony_Gm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Touch Loops West African Vocal Cuts\\Vocal_Loops\\TL_WA_113_Vocal_Loop_HaYKum_Low_Harmony_Gm.wav"
+ }
+}

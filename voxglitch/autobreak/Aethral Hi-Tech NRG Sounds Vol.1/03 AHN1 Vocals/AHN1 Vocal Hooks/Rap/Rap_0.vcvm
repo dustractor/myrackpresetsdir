@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Rap\\AHN1 Rap Hook Dome 150BPM v2.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Rap\\AHN1 Rap Hook Dome 150BPM.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Rap\\AHN1 Rap Hook GoStupid 150BPM v2.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Rap\\AHN1 Rap Hook GoStupid 150BPM.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Rap\\AHN1 Rap Hook HiTechSound 150BPM v2.wav"
+ }
+}

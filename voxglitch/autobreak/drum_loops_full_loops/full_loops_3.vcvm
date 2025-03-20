@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Audiomodern Pulse\\loops\\drum_loops\\full_loops\\AM_DTFB_110_drum_loop_full_Hacked.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Audiomodern Pulse\\loops\\drum_loops\\full_loops\\AM_DTFB_110_drum_loop_full_Mangled.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Audiomodern Pulse\\loops\\drum_loops\\full_loops\\AM_DTFB_110_drum_loop_full_Misrendered.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Audiomodern Pulse\\loops\\drum_loops\\full_loops\\AM_DTFB_120_drum_loop_full_Anomalous.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Audiomodern Pulse\\loops\\drum_loops\\full_loops\\AM_DTFB_120_drum_loop_full_Capsized.wav"
+ }
+}

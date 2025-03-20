@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\24caratblack-foodstamps-94.2bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\blackoakarkansas-hotandnasty-98.7bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\cameo-rigormortis-111.5bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\davidbowie-fiveyears-100bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\deodato-september13-94.5bpm.wav"
+ }
+}

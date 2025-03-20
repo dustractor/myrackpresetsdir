@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\KMRBI_CRV_72_vocal_stack_loop_feel_it_wet_Cm.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Lauren-Laimant_100bpm_vocal_hook_show_me_wet_Amaj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_DOUBLE_L_Fmin.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_DOUBLE_R_Fmin.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_FORMANT_Fmin.wav"
+ }
+}

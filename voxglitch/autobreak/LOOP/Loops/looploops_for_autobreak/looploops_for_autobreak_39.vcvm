@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\GG.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\Ghosts1.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\GT - River - C - 150.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\GT - Stage - E - 68.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\Loops\\looploops_for_autobreak\\hard shit 120.wav"
+ }
+}

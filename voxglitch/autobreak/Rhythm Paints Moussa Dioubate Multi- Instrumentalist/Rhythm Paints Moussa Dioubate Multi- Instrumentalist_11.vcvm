@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rhythm Paints Moussa Dioubate Multi- Instrumentalist\\RhythmPaints_MD_124_Balafone_loop_TheGambiasessions_D_mood.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rhythm Paints Moussa Dioubate Multi- Instrumentalist\\RhythmPaints_MD_124_Balafone_loop_TheGambiasessions_D_slaps.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rhythm Paints Moussa Dioubate Multi- Instrumentalist\\RhythmPaints_MD_124_Balafone_loop_TheGambiasessions_D_soul.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rhythm Paints Moussa Dioubate Multi- Instrumentalist\\RhythmPaints_MD_124_Balafone_loop_TheGambiasessions_D_spirit.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rhythm Paints Moussa Dioubate Multi- Instrumentalist\\RhythmPaints_MD_124_Balafone_loop_TheGambiasessions_E_idea.wav"
+ }
+}

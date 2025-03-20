@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Image Sounds - Folk Harmonica\\15 Folk Harmonica - 140 BPM - G\\Part B\\06 Harmonica - 140 BPM - G.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Image Sounds - Folk Harmonica\\15 Folk Harmonica - 140 BPM - G\\Part B\\07 Harmonica - 140 BPM - G.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Image Sounds - Folk Harmonica\\15 Folk Harmonica - 140 BPM - G\\Part B\\08 Harmonica - 140 BPM - G.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Image Sounds - Folk Harmonica\\15 Folk Harmonica - 140 BPM - G\\Part B\\09 Harmonica - 140 BPM - G.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Image Sounds - Folk Harmonica\\15 Folk Harmonica - 140 BPM - G\\Part B\\10 Harmonica - 140 BPM - G.wav"
+ }
+}

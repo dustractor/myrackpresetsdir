@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_210525 120bpm House.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_020858 143bpm Driver Tom Break.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_020942 143bpm Driver Tom Break.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_021207 143bpm AlleyCat.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_021432 143bpm BK Lounge - var 1.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_33_Dry_(Om_Sai_Namo_Namah).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_33_Wet_(Om_Sai_Namo_Namah).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_34_Dry_(Om_Sai_Namo_Namah).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_34_Wet_(Om_Sai_Namo_Namah).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_35_Dry_(Mangalam_Bhagwan_Vishnu).wav"
+ }
+}

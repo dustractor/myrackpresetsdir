@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_140_BPM_Gm\\Dry\\91V_ATV_140_vocal_phrase_i_should_know_better_double_dry_Gm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_140_BPM_Gm\\Dry\\91V_ATV_140_vocal_phrase_i_should_know_better_lead_dry_Gm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_140_BPM_Gm\\Dry\\91V_ATV_140_vocal_phrase_i_should_know_better_stack_dry_Gm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_140_BPM_Gm\\Dry\\91V_ATV_140_vocal_phrase_seeing_stars_double_dry_Gm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_140_BPM_Gm\\Dry\\91V_ATV_140_vocal_phrase_seeing_stars_lead_dry_Gm.wav"
+ }
+}

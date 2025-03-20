@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_LOWS_Fmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_MAIN_Fmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_123bpm_vocal_topline_more_than_just_a_love_dry_MAIN_MMMs_Fmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_123bpm_vocal_topline_Out_of_my_mind_dry_DOUBLE_L_Gmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_123bpm_vocal_topline_Out_of_my_mind_dry_DOUBLE_R_Gmin.wav"
+ }
+}

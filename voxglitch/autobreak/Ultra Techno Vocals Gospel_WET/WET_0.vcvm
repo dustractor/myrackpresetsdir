@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_01_Mind_128_BPM_Em_WET.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_02_Dawn_128_BPM_Em_WET.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_03_The_Light_128_BPM_Em_WET.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_04_Holy_Spirit_128_BPM_Em_Chops_WET.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_04_Holy_Spirit_128_BPM_Em_WET.wav"
+ }
+}

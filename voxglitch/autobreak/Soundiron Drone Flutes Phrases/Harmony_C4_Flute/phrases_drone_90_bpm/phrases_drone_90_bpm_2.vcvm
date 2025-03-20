@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Harmony_C4_Flute\\phrases_drone_90_bpm\\SI_zdflutes_Harmony_woodwind_phrase_one_shot_90_friendly_Cmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Harmony_C4_Flute\\phrases_drone_90_bpm\\SI_zdflutes_Harmony_woodwind_phrase_one_shot_90_intrigue_Cmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Harmony_C4_Flute\\phrases_drone_90_bpm\\SI_zdflutes_Harmony_woodwind_phrase_one_shot_90_lovely_Cmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Harmony_C4_Flute\\phrases_drone_90_bpm\\SI_zdflutes_Harmony_woodwind_phrase_one_shot_90_magical_Cmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Harmony_C4_Flute\\phrases_drone_90_bpm\\SI_zdflutes_Harmony_woodwind_phrase_one_shot_90_mighty_Cmin.wav"
+ }
+}

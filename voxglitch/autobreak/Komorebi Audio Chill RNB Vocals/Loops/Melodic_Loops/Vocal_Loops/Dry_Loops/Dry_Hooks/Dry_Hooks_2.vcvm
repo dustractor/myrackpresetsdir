@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Hooks\\KMRBI_CRV_80_vocal_hook_loop_keep_on_dry_Am.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Hooks\\KMRBI_CRV_80_vocal_hook_loop_settle_down_dry_Am.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Hooks\\KMRBI_CRV_80_vocal_hook_loop_time_flies_dry_Am.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Hooks\\KMRBI_CRV_80_vocal_hook_loop_wake_up_dry_Am.wav.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Hooks\\KMRBI_CRV_82_vocal_hook_loop_fall_apart_dry_Ebm.wav"
+ }
+}

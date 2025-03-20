@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Learn_Lessons.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Learn_Love.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Life_Happens.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Life_Itself.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Live_Life.wav"
+ }
+}

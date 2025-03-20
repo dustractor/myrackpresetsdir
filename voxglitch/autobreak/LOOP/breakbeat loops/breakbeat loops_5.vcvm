@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\breakbeat loops\\Average White Band - Big City Lights.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\breakbeat loops\\Average White Band - Got The Love.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\breakbeat loops\\Average White Band - T.L.C. (montage).wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\breakbeat loops\\B.T. Express - Still Good - Still Like It.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\breakbeat loops\\B.T.Express - Do It ('Til You're Satisfied).wav"
+ }
+}

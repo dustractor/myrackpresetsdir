@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\100_BPM\\SC_AF_100_flute_lotus_arps_C#min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\100_BPM\\SC_AF_100_flute_lotus_gorgeous_delays_C#min.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\100_BPM\\SC_AF_100_flute_lotus_low_melody_C#min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\100_BPM\\SC_AF_100_flute_lotus_low_rich_delays_trem_C#min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\100_BPM\\SC_AF_100_flute_lotus_low_trem_delays_C#min.wav"
+ }
+}

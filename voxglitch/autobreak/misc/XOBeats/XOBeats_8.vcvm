@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_022208 143bpm Dispatched.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_022245 143bpm Half Down.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_022340 143bpm Half Down.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_022451 143bpm House - var 1.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-13_022518 143bpm House - var 1.wav"
+ }
+}

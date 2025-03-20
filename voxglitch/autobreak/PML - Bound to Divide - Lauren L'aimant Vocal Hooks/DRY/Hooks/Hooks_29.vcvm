@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_135bpm_vocal_hook_ur_all_ive_got_dry_DOUBLE_R_Bbmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_135bpm_vocal_hook_ur_all_ive_got_dry_HARMONY_1_Bbmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_135bpm_vocal_hook_ur_all_ive_got_dry_HARMONY_2_Bbmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_135bpm_vocal_hook_ur_all_ive_got_dry_MAIN_Bbmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_135bpm_vocal_hook_where_u_belong_dry_Gmin.wav"
+ }
+}

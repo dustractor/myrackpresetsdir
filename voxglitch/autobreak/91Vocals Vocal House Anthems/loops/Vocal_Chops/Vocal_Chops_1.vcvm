@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Chops\\91V_VHA_120_vocal_chop_no_tears_Em.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Chops\\91V_VHA_120_vocal_chop_stutter_go_Gm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Chops\\91V_VHA_125_vocal_chop_mine_all_mind_Dm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Chops\\91V_VHA_125_vocal_chop_this_cant_be_Dm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Chops\\91V_VHA_125_vocal_chop_want_it_all_and_more_D#m.wav"
+ }
+}

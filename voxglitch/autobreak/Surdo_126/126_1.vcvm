@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Surdo\\126\\RP_MSP_126_Surdo_loop_cuff.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Surdo\\126\\RP_MSP_126_Surdo_loop_flay.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Surdo\\126\\RP_MSP_126_Surdo_loop_maul.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Surdo\\126\\RP_MSP_126_Surdo_loop_pummel.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Surdo\\126\\RP_MSP_126_Surdo_loop_slam.wav"
+ }
+}

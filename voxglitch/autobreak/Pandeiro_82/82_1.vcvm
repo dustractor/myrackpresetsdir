@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Pandeiro\\82\\RP_MSP_82_Pandeiro_loop_energy.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Pandeiro\\82\\RP_MSP_82_Pandeiro_loop_FX.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Pandeiro\\82\\RP_MSP_82_Pandeiro_loop_grow.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Pandeiro\\82\\RP_MSP_82_Pandeiro_loop_killin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rhythm Paints Marcos Suzano Percussion\\LOOPS\\Pandeiro\\82\\RP_MSP_82_Pandeiro_loop_snap.wav"
+ }
+}

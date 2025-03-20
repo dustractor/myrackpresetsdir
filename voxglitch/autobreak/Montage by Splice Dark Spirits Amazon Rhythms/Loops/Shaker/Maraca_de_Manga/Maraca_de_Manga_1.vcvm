@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Maraca_de_Manga\\MNT_DSA_129_shaker_maraca_de_manga_tucandeira_fx.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Maraca_de_Manga\\MNT_DSA_90_shaker_maraca_de_manga_cipo_dry.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Maraca_de_Manga\\MNT_DSA_90_shaker_maraca_de_manga_cipo_fx.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Maraca_de_Manga\\MNT_DSA_90_shaker_maraca_de_manga_mao_pelada_dry.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Maraca_de_Manga\\MNT_DSA_90_shaker_maraca_de_manga_mao_pelada_fx.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_01_SUB_SYN_BASS_132BPM_C.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_01_SYNTH_132BPM_F#m.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_01_TOM_132BPM_E.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_01_VOCAL_132BPM_Bbm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Unity Records Unity Samples Vol.31 by Tony Romanello\\BEAT_LOOPS\\US_02_ARP_SYNTH_129BPM_Bbm.wav"
+ }
+}

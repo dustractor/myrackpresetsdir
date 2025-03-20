@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Harmonies\\KMRBI_CRV_80_vocal_harmony_loop_settle_mid_dry_Am.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Harmonies\\KMRBI_CRV_82_vocal_harmony_loop_itshard_high_dry_Ebm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Harmonies\\KMRBI_CRV_82_vocal_harmony_loop_itshard_low_dry_Ebm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Harmonies\\KMRBI_CRV_82_vocal_harmony_loop_itshard_mid_dry_Ebm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Komorebi Audio Chill RNB Vocals\\Loops\\Melodic_Loops\\Vocal_Loops\\Dry_Loops\\Dry_Harmonies\\KMRBI_CRV_82_vocal_harmony_loop_take_time_high_dry_Ebm.wav"
+ }
+}

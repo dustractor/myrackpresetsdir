@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_120_vocal_vocoder_never_go_back_Em.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_120_vocal_vocoder_unity_chords_Em.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_125_vocal_vocoder_dancey_chords_G.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_125_vocal_vocoder_praise_chords_Am.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_125_vocal_vocoder_we_last_chords_Dm.wav"
+ }
+}

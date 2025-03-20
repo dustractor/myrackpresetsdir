@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Jungle Jungle - 1989 to 1999 Samplepack\\Breaks\\Sovreign Break.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Jungle Jungle - 1989 to 1999 Samplepack\\Breaks\\Space Age Break.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Jungle Jungle - 1989 to 1999 Samplepack\\Breaks\\Stepper Amen.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Jungle Jungle - 1989 to 1999 Samplepack\\Breaks\\Stepper Break.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Jungle Jungle - 1989 to 1999 Samplepack\\Breaks\\Still Break.wav"
+ }
+}

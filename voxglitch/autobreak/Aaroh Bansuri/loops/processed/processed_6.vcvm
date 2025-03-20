@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_70_bansuri_processed_low_spirit_F#min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_70_bansuri_processed_pihu_Emin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_75_bansuri_processed_legend_Amin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_75_bansuri_processed_myths_Bmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\processed\\AR_BNS_75_bansuri_processed_udaasi_Cmin.wav"
+ }
+}

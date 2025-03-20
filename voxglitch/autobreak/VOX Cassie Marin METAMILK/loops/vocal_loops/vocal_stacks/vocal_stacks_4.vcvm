@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_stacks\\VOX_CASSIEMARIN_110_vocal_stack_chomp_lead_dry.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_stacks\\VOX_CASSIEMARIN_110_vocal_stack_chomp_lead_wet.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_stacks\\VOX_CASSIEMARIN_120_vocal_stack_red_doubles_Emin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_stacks\\VOX_CASSIEMARIN_120_vocal_stack_red_full_Emin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_stacks\\VOX_CASSIEMARIN_120_vocal_stack_red_lead_Emin.wav"
+ }
+}

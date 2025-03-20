@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_100_perc_loop_crunchy_cabasa.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_100_perc_loop_crunchy_cabasa_tambo_top_phased.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_100_perc_loop_crunchy_tambo.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_102_perc_loop_boombap_cabasa.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_102_perc_loop_boombap_cabasa_tambo_phased.wav"
+ }
+}

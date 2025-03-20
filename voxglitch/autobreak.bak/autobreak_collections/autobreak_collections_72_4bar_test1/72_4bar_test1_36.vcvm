@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\72bpm (with overhead).wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\808 (Domo23).wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\91V_ATV_145_vocal_chop_dune_builder_A.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\91V_ATV_145_vocal_chop_ether_gate_A.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\72_4bar_test1\\91V_ATV_145_vocal_chop_stack_triggers_E.wav"
+ }
+}

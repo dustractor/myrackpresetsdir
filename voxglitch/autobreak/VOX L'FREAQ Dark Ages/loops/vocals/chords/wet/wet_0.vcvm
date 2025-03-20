@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\chords\\wet\\VOX_LFREAQ_139_vocal_chord_coronation_wet_F#min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\chords\\wet\\VOX_LFREAQ_140_vocal_chord_flow_state_wet_Bbmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\chords\\wet\\VOX_LFREAQ_150_vocal_chord_martyr_choir_wet_Bbmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\chords\\wet\\VOX_LFREAQ_157_vocal_chord_bleed_me_wet_C#min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\chords\\wet\\VOX_LFREAQ_163_vocal_chord_the_birds_wet_Abmin.wav"
+ }
+}

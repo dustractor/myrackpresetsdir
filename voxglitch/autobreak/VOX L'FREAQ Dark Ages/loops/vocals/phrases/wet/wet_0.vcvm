@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\phrases\\wet\\VOX_LFREAQ_110_vocal_phrase_angel_maker_wet_Dmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\phrases\\wet\\VOX_LFREAQ_110_vocal_phrase_for_izzy_wet_Dmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\phrases\\wet\\VOX_LFREAQ_155_vocal_phrase_love_me_wet_Cmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\phrases\\wet\\VOX_LFREAQ_85_vocal_phrase_choir_your_words_wet_Dmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\VOX L'FREAQ Dark Ages\\loops\\vocals\\phrases\\wet\\VOX_LFREAQ_95_vocal_phrase_find_my_home_wet_Dmin.wav"
+ }
+}

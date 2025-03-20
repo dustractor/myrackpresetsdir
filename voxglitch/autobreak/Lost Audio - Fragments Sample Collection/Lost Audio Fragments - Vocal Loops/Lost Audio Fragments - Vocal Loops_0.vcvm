@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Loops\\Lost Audio - Fragments Vocal Loops - Adlibs Riff 130BPM F.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Loops\\Lost Audio - Fragments Vocal Loops - Calling Me Dry 130BPM F.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Loops\\Lost Audio - Fragments Vocal Loops - Glitch Fast 130BPM F.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Loops\\Lost Audio - Fragments Vocal Loops - Time Dry 110BPM G#.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Loops\\Lost Audio - Fragments Vocal Loops - Time Wet 110BPM G#.wav"
+ }
+}

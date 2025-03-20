@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\True Samples -BBC HOUSE\\TSBH_PERCUSSION_LOOPS\\TSBH_PERCUSSION_LOOP_16_(125_BPM).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\True Samples -BBC HOUSE\\TSBH_PERCUSSION_LOOPS\\TSBH_PERCUSSION_LOOP_17_(125_BPM).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\True Samples -BBC HOUSE\\TSBH_PERCUSSION_LOOPS\\TSBH_PERCUSSION_LOOP_18_(125_BPM).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\True Samples -BBC HOUSE\\TSBH_PERCUSSION_LOOPS\\TSBH_PERCUSSION_LOOP_19_(125_BPM).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\True Samples -BBC HOUSE\\TSBH_PERCUSSION_LOOPS\\TSBH_PERCUSSION_LOOP_20_(125_BPM).wav"
+ }
+}

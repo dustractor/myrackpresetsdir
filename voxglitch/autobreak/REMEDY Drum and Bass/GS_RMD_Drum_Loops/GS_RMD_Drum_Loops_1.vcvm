@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\REMEDY Drum and Bass\\GS_RMD_Drum_Loops\\GS_RMD_174_Drums_06_Full.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\REMEDY Drum and Bass\\GS_RMD_Drum_Loops\\GS_RMD_174_Drums_07_Full.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\REMEDY Drum and Bass\\GS_RMD_Drum_Loops\\GS_RMD_174_Drums_08_Full.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\REMEDY Drum and Bass\\GS_RMD_Drum_Loops\\GS_RMD_174_Drums_09_Full.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\REMEDY Drum and Bass\\GS_RMD_Drum_Loops\\GS_RMD_174_Drums_10_Full.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\26 - Bounce in Place 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\27 - Clap Along 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\28 - Casaba Lama 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\29 - Slash and Burn 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\30 - Apocolypse Break 140bpm - MLD1 Futurephonic.wav"
+ }
+}

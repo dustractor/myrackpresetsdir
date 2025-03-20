@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop JetRacer 90.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Magic Power 171.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Oppus 145.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Outside The One Club 94.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Robot City 121.wav"
+ }
+}

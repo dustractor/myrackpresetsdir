@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Luminous Love - 164 BPM A# Min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Me & U - 100 BPM G Min.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Monaco - 117 BPM B Min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Night Life - 162 BPM C Min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Operation - 86 BPM A# Min.wav"
+ }
+}

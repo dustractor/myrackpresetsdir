@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 76 - (140BPM) - Pull - Up.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 77 - (140BPM) - Pull - Up #2.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 78 - (140BPM) - Girl.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 79 - (140BPM) - Girl #2.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 80 - (140BPM) - YEAHHH.wav"
+ }
+}

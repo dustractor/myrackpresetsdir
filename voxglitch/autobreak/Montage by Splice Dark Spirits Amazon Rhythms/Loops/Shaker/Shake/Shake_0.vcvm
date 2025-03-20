@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake\\MNT_DSA_104_shaker_shake_tatu_dry.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake\\MNT_DSA_104_shaker_shake_tatu_fx.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake\\MNT_DSA_124_shaker_shake_mapinguari_dry.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake\\MNT_DSA_124_shaker_shake_mapinguari_fx.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake\\MNT_DSA_124_shaker_shake_yara_dry.wav"
+ }
+}

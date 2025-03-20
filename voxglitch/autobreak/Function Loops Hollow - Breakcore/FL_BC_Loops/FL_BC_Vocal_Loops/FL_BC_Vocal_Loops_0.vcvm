@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Function Loops Hollow - Breakcore\\FL_BC_Loops\\FL_BC_Vocal_Loops\\FL_BC_175_Vocal_Cut_Ah_Oh_Gm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Function Loops Hollow - Breakcore\\FL_BC_Loops\\FL_BC_Vocal_Loops\\FL_BC_175_Vocal_Cut_Ay_Ye_Dm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Function Loops Hollow - Breakcore\\FL_BC_Loops\\FL_BC_Vocal_Loops\\FL_BC_175_Vocal_Cut_Blend_Gm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Function Loops Hollow - Breakcore\\FL_BC_Loops\\FL_BC_Vocal_Loops\\FL_BC_175_Vocal_Cut_Hiccup_Em.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Function Loops Hollow - Breakcore\\FL_BC_Loops\\FL_BC_Vocal_Loops\\FL_BC_175_Vocal_Cut_Pop_Gm.wav"
+ }
+}

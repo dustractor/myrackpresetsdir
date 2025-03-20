@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\polapization loops\\ambient melodic-G#maj-82bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\polapization loops\\apollo-G-maj-158bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\polapization loops\\Argonauts-B-min-124bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\polapization loops\\BadIntent-CMINOR-86bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\polapization loops\\Bee's-nest-D#min-162bpm.wav"
+ }
+}

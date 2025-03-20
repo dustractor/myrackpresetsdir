@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_92_Agogo_loop_flair.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_92_Agogo_loop_gift.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_92_Agogo_loop_knock.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_92_Bongo_loop_bags.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_92_Bongo_loop_damp.wav"
+ }
+}

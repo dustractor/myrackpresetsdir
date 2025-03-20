@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Flowstateaudio Moonstellar Soundkit\\MoonStellar - SOUNDKIT [@_SwayFlow]\\MoonStellar - PERC LOOPS [@_SwayFlow]\\PERC LOOP - CALM (173 BPM) [@_SwayFlow].wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Flowstateaudio Moonstellar Soundkit\\MoonStellar - SOUNDKIT [@_SwayFlow]\\MoonStellar - PERC LOOPS [@_SwayFlow]\\PERC LOOP - CAVE PERC (140 BPM) [@_SwayFlow].wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Flowstateaudio Moonstellar Soundkit\\MoonStellar - SOUNDKIT [@_SwayFlow]\\MoonStellar - PERC LOOPS [@_SwayFlow]\\PERC LOOP - COWBOY (140 BPM) [@_SwayFlow].wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Flowstateaudio Moonstellar Soundkit\\MoonStellar - SOUNDKIT [@_SwayFlow]\\MoonStellar - PERC LOOPS [@_SwayFlow]\\PERC LOOP - DISTURB (146 BPM) [@_SwayFlow].wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Flowstateaudio Moonstellar Soundkit\\MoonStellar - SOUNDKIT [@_SwayFlow]\\MoonStellar - PERC LOOPS [@_SwayFlow]\\PERC LOOP - DOOR (157 BPM) [@_SwayFlow].wav"
+ }
+}

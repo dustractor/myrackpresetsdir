@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Splice Originals Flutes of Japan with Kaoru Watanabe\\Loops\\Flute_Performances_Wet\\SO_JF_80_flute_performance_closecall_wet_Cmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Splice Originals Flutes of Japan with Kaoru Watanabe\\Loops\\Flute_Performances_Wet\\SO_JF_80_flute_performance_concussed_wet_Cmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Splice Originals Flutes of Japan with Kaoru Watanabe\\Loops\\Flute_Performances_Wet\\SO_JF_80_flute_performance_ingrained_wet_Cmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Splice Originals Flutes of Japan with Kaoru Watanabe\\Loops\\Flute_Performances_Wet\\SO_JF_80_flute_performance_married_wet_Cmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Splice Originals Flutes of Japan with Kaoru Watanabe\\Loops\\Flute_Performances_Wet\\SO_JF_80_flute_performance_navarro_wet_Cmin.wav"
+ }
+}

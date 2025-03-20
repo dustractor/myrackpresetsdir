@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_mausam_Bmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_memory_Cmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_mitti_Bbmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_nakhre_Bbmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_new_vibe_F#maj.wav"
+ }
+}

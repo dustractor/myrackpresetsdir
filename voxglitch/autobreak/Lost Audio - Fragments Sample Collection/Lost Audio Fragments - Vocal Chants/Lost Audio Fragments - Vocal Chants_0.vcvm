@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Chants\\Lost Audio - Fragments Chant Ooo 1 Distorted.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Chants\\Lost Audio - Fragments Chant Ooo 2 Distorted.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Chants\\Lost Audio - Fragments Chant RoboYeah 1.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Chants\\Lost Audio - Fragments Chant RoboYeah 2.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Lost Audio - Fragments Sample Collection\\Lost Audio Fragments - Vocal Chants\\Lost Audio - Fragments Chant RoboYeah 3.wav"
+ }
+}

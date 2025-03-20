@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\11 - Slick Rickz 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\12 - Is Anybody There_ 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\13 - Just Taste 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\14 - GMyes 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 140bpm\\15 - Stab Me Now 140bpm - MLD1 Futurephonic.wav"
+ }
+}

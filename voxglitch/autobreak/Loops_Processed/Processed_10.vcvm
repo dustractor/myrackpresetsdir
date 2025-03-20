@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_135_flute_processed_lead_pitched_Gmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_135_flute_processed_lead_rapid_glitch_Dmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_135_flute_processed_lead_slowmotion_stabs_Dmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_135_flute_processed_lead_soft_ghostly_Bmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_135_flute_processed_lead_trilling_excitment_Fmaj.wav"
+ }
+}

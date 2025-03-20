@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\HiTECH_NINJA_SAMPLES_vol_3\\HNS3 Loops\\HNS3 Loops 16 140 BPM.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\HiTECH_NINJA_SAMPLES_vol_3\\HNS3 Loops\\HNS3 Loops 17 140 BPM.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\HiTECH_NINJA_SAMPLES_vol_3\\HNS3 Loops\\HNS3 Loops 18 140 BPM.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\HiTECH_NINJA_SAMPLES_vol_3\\HNS3 Loops\\HNS3 Loops 19 165 BPM.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\HiTECH_NINJA_SAMPLES_vol_3\\HNS3 Loops\\HNS3 Loops 20 175 BPM.wav"
+ }
+}

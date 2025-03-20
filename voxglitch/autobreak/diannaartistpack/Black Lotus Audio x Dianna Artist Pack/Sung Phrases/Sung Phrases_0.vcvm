@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Alone 1 - C Major.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Alone 2 - C Major.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Bad Guy 1 - D Major.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Bad Guy 2 - D Major.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Call You Out 1 - D# Harmonic Minor.wav"
+ }
+}

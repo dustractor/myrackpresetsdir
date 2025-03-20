@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Dungeons - 129 BPM B Min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Eucalyptus - 140 BPM A Min.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Feel This Way - 92 BPM C Min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Games - 100 BPM G Min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Haunted - 130 BPM D Min.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_120_flute_processed_pad_rich_power_Cmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_120_flute_processed_pad_rising_A.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_120_flute_processed_pad_tape_On_G#min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_120_flute_processed_pad_warm_dolphins_Dmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rubicon Hybrid Winds\\Loops\\Processed\\RU_HW_132_flute_processed_arp_blooming_rich_C.wav"
+ }
+}

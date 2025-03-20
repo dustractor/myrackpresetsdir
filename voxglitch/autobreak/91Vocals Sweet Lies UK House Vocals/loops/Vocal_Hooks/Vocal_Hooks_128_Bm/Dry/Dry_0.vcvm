@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_128_Bm\\Dry\\91V_SLU_128_vocal_hook_amnesia_formant_double_dry_Bm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_128_Bm\\Dry\\91V_SLU_128_vocal_hook_amnesia_lead_dry_Bm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_128_Bm\\Dry\\91V_SLU_128_vocal_hook_empty_promises_lead_dry_Bm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_128_Bm\\Dry\\91V_SLU_128_vocal_hook_feel_it_feel_it_double_dry_Bm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_128_Bm\\Dry\\91V_SLU_128_vocal_hook_feel_it_feel_it_lead_dry_Bm.wav"
+ }
+}

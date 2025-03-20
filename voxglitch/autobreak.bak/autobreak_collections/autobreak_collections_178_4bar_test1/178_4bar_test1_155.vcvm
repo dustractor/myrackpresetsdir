@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Male Vocal Wet 24 - 90 BPM F# Min - Fadin' Away.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Male Vocal Wet 46 - 100 BPM E Maj - Lay Down.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Male Vocal Wet 47 - 100 BPM E Maj - Losin' It.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Male Vocal Wet 65 - 110 BPM C# Min - I'll Give You Everything.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\178_4bar_test1\\Cymatics - VYPR Modern Full Drum Loop 61 - 180 BPM.wav"
+ }
+}

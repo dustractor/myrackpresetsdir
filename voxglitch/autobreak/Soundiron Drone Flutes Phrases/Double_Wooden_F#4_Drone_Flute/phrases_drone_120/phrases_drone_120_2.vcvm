@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Double_Wooden_F#4_Drone_Flute\\phrases_drone_120\\SI_zdflutes_DblWood_woodwind_phrase_one_shot_120_friendly_F#min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Double_Wooden_F#4_Drone_Flute\\phrases_drone_120\\SI_zdflutes_DblWood_woodwind_phrase_one_shot_120_intrigue_F#min.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Double_Wooden_F#4_Drone_Flute\\phrases_drone_120\\SI_zdflutes_DblWood_woodwind_phrase_one_shot_120_lovely_F#min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Double_Wooden_F#4_Drone_Flute\\phrases_drone_120\\SI_zdflutes_DblWood_woodwind_phrase_one_shot_120_magical_F#min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Soundiron Drone Flutes Phrases\\Double_Wooden_F#4_Drone_Flute\\phrases_drone_120\\SI_zdflutes_DblWood_woodwind_phrase_one_shot_120_mighty_F#min.wav"
+ }
+}

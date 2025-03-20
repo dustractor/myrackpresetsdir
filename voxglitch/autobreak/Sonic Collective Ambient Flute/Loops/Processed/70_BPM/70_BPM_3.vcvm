@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\70_BPM\\SC_AF_70_flute_coral_low_arp_Amin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\70_BPM\\SC_AF_70_flute_coral_luscious_delays_rubato_Amin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\70_BPM\\SC_AF_70_flute_coral_pulse_delays_Amin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\70_BPM\\SC_AF_70_flute_coral_single_delays_rubato_Amin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\70_BPM\\SC_AF_70_flute_coral_stack_Amin.wav"
+ }
+}

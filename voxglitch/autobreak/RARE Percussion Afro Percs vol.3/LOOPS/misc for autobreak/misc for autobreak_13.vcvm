@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_110_percussion_Bata_loop_cuff.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_110_Percussion_Brushes_loop_drip.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_110_Percussion_Brushes_loop_slaps.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_110_Thiol_loop_lightbulb.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_110_Thiol_loop_line.wav"
+ }
+}

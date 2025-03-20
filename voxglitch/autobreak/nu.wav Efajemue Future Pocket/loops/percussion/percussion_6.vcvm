@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_86_perc_loop_dilla_kessing.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_86_perc_loop_dilla_tambo_kessing_top.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_90_perc_loop_flammy_rattle.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_90_perc_loop_flammy_rattle_bongo_top.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_92_perc_loop_clicky_hat_stack_top.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_rage_is_my_game.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_r_u_ready.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_scream.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_metal_140bpm_tearout.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_control.wav"
+ }
+}

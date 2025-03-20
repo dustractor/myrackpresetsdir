@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x4\\x4_G\\e4 - BOS_BFA_116_Ney_Loop_Vibe_Gm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x4\\x4_G\\e4 - GIO_ANTL_80_saz_strings_easy_segah_G.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x4\\x4_G\\e4 - GIO_ANTL_80_saz_strings_jumpy_segah_G.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x4\\x4_G\\e4 - GIO_ANTL_80_saz_strings_octaves_segah_G.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x4\\x4_G\\e4 - GIO_ANTL_80_saz_strings_shiny_segah_G.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Acai\\MNT_DSA_101_shaker_shake_acai_cupati_dry.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Acai\\MNT_DSA_101_shaker_shake_acai_cupati_fx.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Acai\\MNT_DSA_111_shaker_shake_acai_murici_dry.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Acai\\MNT_DSA_111_shaker_shake_acai_murici_fx.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Acai\\MNT_DSA_112_shaker_shake_acai_piqui_dry.wav"
+ }
+}

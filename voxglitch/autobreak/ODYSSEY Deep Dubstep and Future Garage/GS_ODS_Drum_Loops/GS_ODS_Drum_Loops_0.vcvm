@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\ODYSSEY Deep Dubstep and Future Garage\\GS_ODS_Drum_Loops\\GS_ODS_137_Drums_Full_V1.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\ODYSSEY Deep Dubstep and Future Garage\\GS_ODS_Drum_Loops\\GS_ODS_137_Drums_Full_V2.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\ODYSSEY Deep Dubstep and Future Garage\\GS_ODS_Drum_Loops\\GS_ODS_138_Drums_Full.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\ODYSSEY Deep Dubstep and Future Garage\\GS_ODS_Drum_Loops\\GS_ODS_140_Drums_01_Full_V1.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\ODYSSEY Deep Dubstep and Future Garage\\GS_ODS_Drum_Loops\\GS_ODS_140_Drums_01_Full_V2.wav"
+ }
+}

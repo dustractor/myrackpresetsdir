@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_let_me_make_u_mine_dry_Dmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_lose_myself_dry_Cmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_need_ur_love_dry_Bmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_never_enough_dry_Bmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_never_gonna_dry_Cmin.wav"
+ }
+}

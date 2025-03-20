@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_E_Female_Mantra_Vocal_45_Dry_(Om_Tare_Tuttare).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_E_Female_Mantra_Vocal_45_Wet_(Om_Tare_Tuttare).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_E_Female_Mantra_Vocal_46_Dry_(Om_Tare_Tuttare).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_E_Female_Mantra_Vocal_46_Wet_(Om_Tare_Tuttare).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_F_Female_Mantra_Vocal_47_Dry_(Jaya_Shiva_Omkara).wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PRODBY.XERO ULTIMATE DNB SOUND KIT\\Jungle DnB\\Drum Loops\\Drum Rolls\\DRUM ROLL (37).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PRODBY.XERO ULTIMATE DNB SOUND KIT\\Jungle DnB\\Drum Loops\\Drum Rolls\\DRUM ROLL (38).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PRODBY.XERO ULTIMATE DNB SOUND KIT\\Jungle DnB\\Drum Loops\\Drum Rolls\\DRUM ROLL (39).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PRODBY.XERO ULTIMATE DNB SOUND KIT\\Jungle DnB\\Drum Loops\\Drum Rolls\\DRUM ROLL (4).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PRODBY.XERO ULTIMATE DNB SOUND KIT\\Jungle DnB\\Drum Loops\\Drum Rolls\\DRUM ROLL (40).wav"
+ }
+}

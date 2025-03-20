@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Synth\\91V_VHA_120_vocal_hook_fx_synth_lights_go_out_G.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Synth\\91V_VHA_125_vocal_hook_fx_synth_i_want_it_all_Dm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Synth\\91V_VHA_125_vocal_hook_fx_synth_on_replay_Dm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Synth\\91V_VHA_126_vocal_hook_fx_synth_tell_me_what_you_see_A#m.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Synth\\91V_VHA_128_vocal_hook_fx_synth_glitter_and_gold_Bm.wav"
+ }
+}

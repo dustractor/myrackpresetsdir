@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Gio Israel Brazilian Essentials Samba\\Loops\\Melodic_Loops\\Songstarters\\GIO_SAMBA_140_songstarter_milho_flute_cool_Amin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Gio Israel Brazilian Essentials Samba\\Loops\\Melodic_Loops\\Songstarters\\GIO_SAMBA_140_songstarter_pepino_flute_speed_Amin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Gio Israel Brazilian Essentials Samba\\Loops\\Melodic_Loops\\Songstarters\\GIO_SAMBA_140_songstarter_repolho_guitar_chords_Dmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Gio Israel Brazilian Essentials Samba\\Loops\\Melodic_Loops\\Songstarters\\GIO_SAMBA_140_songstarter_tangerina_cavaquinho_strings_carribean_G.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Gio Israel Brazilian Essentials Samba\\Loops\\Melodic_Loops\\Songstarters\\GIO_SAMBA_140_songstarter_tomate_flute_flow_F.wav"
+ }
+}

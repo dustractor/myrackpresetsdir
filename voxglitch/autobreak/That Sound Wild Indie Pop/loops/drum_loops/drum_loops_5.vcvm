@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\That Sound Wild Indie Pop\\loops\\drum_loops\\TS_WIP_100_drum_strawberry_crush.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\That Sound Wild Indie Pop\\loops\\drum_loops\\TS_WIP_100_drum_strawberry_squeeze.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\That Sound Wild Indie Pop\\loops\\drum_loops\\TS_WIP_110_drum_afterwards_crush.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\That Sound Wild Indie Pop\\loops\\drum_loops\\TS_WIP_110_drum_afterwards_squeeze.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\That Sound Wild Indie Pop\\loops\\drum_loops\\TS_WIP_110_drum_audience_crush.wav"
+ }
+}

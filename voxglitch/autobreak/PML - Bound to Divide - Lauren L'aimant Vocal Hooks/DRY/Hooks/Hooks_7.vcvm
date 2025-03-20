@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_115bpm_vocal_hook_never_let_me_down_dry_Fmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_115bpm_vocal_hook_only_for_tonight_dry_Ebmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_115bpm_vocal_hook_run_into_my_arms_dry_a_MAIN_Emin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_115bpm_vocal_hook_run_into_my_arms_dry_b_HARMONIES_Emin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_115bpm_vocal_hook_run_into_my_arms_dry_c_DOUBLE_L_Emin.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 46 - (126BPM) - This - is - serious.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 47 - (126BPM) - Sweat.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 48 - (126BPM) - I - Make U - Sweat!.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 49 - (126BPM) - Hold - UP.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 50 - (126BPM) - You - Got - Dat.wav"
+ }
+}

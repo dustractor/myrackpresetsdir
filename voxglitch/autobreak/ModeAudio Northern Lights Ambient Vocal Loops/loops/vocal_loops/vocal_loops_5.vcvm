@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_108_Vocal_Phrase_Loop_NorthernLights_High_Wet_E.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_108_Vocal_Phrase_Loop_NorthernLights_Wet_E.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_108_Vocal_Phrase_Loop_Spiral_Wet_Bm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_110_Vocal_Adlib_Loop_ColdBreeze_Wet_Am.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_110_Vocal_Adlib_Loop_WetEscape_Wet_G.wav"
+ }
+}

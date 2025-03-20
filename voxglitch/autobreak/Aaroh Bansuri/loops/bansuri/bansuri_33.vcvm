@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_90_bansuri_frills_Gmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_90_bansuri_indian_hiphop_hook_Dmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_90_bansuri_khushi_high_Gmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_90_bansuri_khushi_intro_Gmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_90_bansuri_khushi_verse_Gmaj.wav"
+ }
+}

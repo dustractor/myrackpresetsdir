@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\01 - Greasing the Engine 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\02 - Psychedelic Horses 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\03 - Train Station 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\04 - Distorted Rubber Break 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\05 - Springadelica 145bpm - MLD1 Futurephonic.wav"
+ }
+}

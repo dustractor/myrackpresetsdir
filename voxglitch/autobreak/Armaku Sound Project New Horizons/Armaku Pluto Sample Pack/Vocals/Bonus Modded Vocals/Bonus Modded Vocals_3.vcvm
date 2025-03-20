@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Armaku Sound Project New Horizons\\Armaku Pluto Sample Pack\\Vocals\\Bonus Modded Vocals\\Armaku_Pluto_Modded_Vocal_140_16.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Armaku Sound Project New Horizons\\Armaku Pluto Sample Pack\\Vocals\\Bonus Modded Vocals\\Armaku_Pluto_Modded_Vocal_140_17.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Armaku Sound Project New Horizons\\Armaku Pluto Sample Pack\\Vocals\\Bonus Modded Vocals\\Armaku_Pluto_Modded_Vocal_140_18.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Armaku Sound Project New Horizons\\Armaku Pluto Sample Pack\\Vocals\\Bonus Modded Vocals\\Armaku_Pluto_Modded_Vocal_140_19.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Armaku Sound Project New Horizons\\Armaku Pluto Sample Pack\\Vocals\\Bonus Modded Vocals\\Armaku_Pluto_Modded_Vocal_140_20.wav"
+ }
+}

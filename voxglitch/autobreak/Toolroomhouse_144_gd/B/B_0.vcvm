@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Toolroomhouse_144_gd\\B\\techhousevocalswksp - T_HV3_128_vocal_chop_loop_wet_dab_B.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Toolroomhouse_144_gd\\B\\techhousevocalswksp - T_HV3_128_vocal_hook_loop_wet_arms_wide_open_B.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Toolroomhouse_144_gd\\B\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_feeling_good_B.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Toolroomhouse_144_gd\\B\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_feel_the_rain_B.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Toolroomhouse_144_gd\\B\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_turn_back_time_B.wav"
+ }
+}

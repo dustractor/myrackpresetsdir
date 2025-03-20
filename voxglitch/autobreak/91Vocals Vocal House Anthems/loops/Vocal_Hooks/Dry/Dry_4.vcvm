@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks\\Dry\\91V_VHA_126_vocal_hook_embrace_the_moment_dry_Am.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks\\Dry\\91V_VHA_126_vocal_hook_hit_the_ground_running_dry_Am.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks\\Dry\\91V_VHA_126_vocal_hook_moonlight_get_lost_tonight_dry_A#m.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks\\Dry\\91V_VHA_126_vocal_hook_over_and_over_again_dry_Am.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks\\Dry\\91V_VHA_126_vocal_hook_shine_your_light_on_me_dry_Am.wav"
+ }
+}

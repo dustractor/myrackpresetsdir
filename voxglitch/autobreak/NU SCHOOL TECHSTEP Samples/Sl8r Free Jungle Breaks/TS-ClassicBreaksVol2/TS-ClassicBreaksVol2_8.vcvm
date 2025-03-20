@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\stevearrington-nobodycanbeyou-111bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\stevearrington-weakatheknees-105bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\sugarbilly-igotsome-91.5bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\tanyagardner-heartbeat-96.5bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\tempress-explainittohermama-69.7bpm.wav"
+ }
+}

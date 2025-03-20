@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Om Kship Swaha Sah Maatraa Namah C minor_DG.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Om Mani Padme Hum D_DG.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Om Nama Shivaya Svaha B minor_DG.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Om Namo Guru Devo Namo C major_DG.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Om Namo Narayanaya D_DG.wav"
+ }
+}

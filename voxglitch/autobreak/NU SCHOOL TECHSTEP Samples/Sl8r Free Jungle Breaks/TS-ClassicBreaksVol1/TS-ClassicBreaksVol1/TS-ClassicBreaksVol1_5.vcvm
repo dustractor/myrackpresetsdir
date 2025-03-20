@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\lafayetteafrorockband-hihache-102.2bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\leedorsey-getoutmylifewoman-90.5bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\leshumphriessingers-putyourhand-82.3bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\littlefeat-foolyourself-77.5bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\loudonaldson-odetobilliejoe2-93bpm.wav"
+ }
+}

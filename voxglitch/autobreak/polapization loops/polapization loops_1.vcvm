@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\polapization loops\\Bee-honey-F#-min-144bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\polapization loops\\Canary-2-G#maj-74bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\polapization loops\\Canary-G#maj-74bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\polapization loops\\Canyon-A-maj-137bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\polapization loops\\chimney-A-min-159bpm.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Image Sounds - Folk Guitars\\11 Folk Guitar 120 BPM F\\Part 02\\21 Mandolin - 120 BPM - F.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Image Sounds - Folk Guitars\\11 Folk Guitar 120 BPM F\\Part 02\\22 Mandolin - 120 BPM - F.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Image Sounds - Folk Guitars\\11 Folk Guitar 120 BPM F\\Part 02\\23 Mandolin - 120 BPM - F.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Image Sounds - Folk Guitars\\11 Folk Guitar 120 BPM F\\Part 02\\24 Mandolin - 120 BPM - F.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Image Sounds - Folk Guitars\\11 Folk Guitar 120 BPM F\\Part 02\\25 Ukulele - 120 BPM - F.wav"
+ }
+}

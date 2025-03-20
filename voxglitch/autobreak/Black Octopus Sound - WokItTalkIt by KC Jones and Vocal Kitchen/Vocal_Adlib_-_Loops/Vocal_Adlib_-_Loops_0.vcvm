@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Adlib_-_Loops\\BOS_KCJ_114_Vocal_Adlib_Loop_Hey_Fantastical_G.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Adlib_-_Loops\\BOS_KCJ_116_Vocal_Adlib_Loop_GetDownToThis_Blissful_F#m.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Adlib_-_Loops\\BOS_KCJ_125_Vocal_Adlib_Loop_AlrightOk_Serene_Gm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Adlib_-_Loops\\BOS_KCJ_125_Vocal_Adlib_Loop_AlrightOk_Whisper_Transcendent_Gm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Black Octopus Sound - WokItTalkIt by KC Jones and Vocal Kitchen\\Vocal_Adlib_-_Loops\\BOS_KCJ_128_Vocal_Adlib_Loop_Whoohoo_FX_Enchanting_Am.wav"
+ }
+}

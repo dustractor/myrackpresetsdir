@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_145_BPM_E_\\Dry\\91V_ATV_145_vocal_hook_black_and_white_double_dry_E.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_145_BPM_E_\\Dry\\91V_ATV_145_vocal_hook_black_and_white_lead_dry_E.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_145_BPM_E_\\Dry\\91V_ATV_145_vocal_hook_hills_will_roll_double_dry_E.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_145_BPM_E_\\Dry\\91V_ATV_145_vocal_hook_hills_will_roll_lead_dry_E.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_145_BPM_E_\\Dry\\91V_ATV_145_vocal_hook_it_takes_more_double_dry_E.wav"
+ }
+}

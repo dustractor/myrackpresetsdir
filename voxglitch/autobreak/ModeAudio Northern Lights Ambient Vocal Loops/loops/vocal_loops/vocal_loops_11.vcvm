@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_116_Vocal_Phrase_Loop_Lave_Deep_Wet_Dm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_117_Vocal_Adlib_Loop_Blossoms_Del_Wet_Cm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_117_Vocal_Adlib_Loop_Blossoms_Wet_Cm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_117_Vocal_Adlib_Loop_Dakota_Wet_A#.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\ModeAudio Northern Lights Ambient Vocal Loops\\loops\\vocal_loops\\MA_NL_117_Vocal_Adlib_Loop_RitualChoir_Scent_Wet_Dm.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Think About Their Feelings 2 - C Major.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Used To 1 - C Major.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Used To 2 - C Major.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Wasted 1 - E Major.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\diannaartistpack\\Black Lotus Audio x Dianna Artist Pack\\Sung Phrases\\BLA - Wasted 2 - E Major.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS (Bonus loops) 140bpm\\01 - Springadelic Backer 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS (Bonus loops) 140bpm\\02 - Voxbeats of Glitch 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS (Bonus loops) 140bpm\\03 - Phaser Groover 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS (Bonus loops) 140bpm\\04 - Big Bad Drums 140bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS (Bonus loops) 140bpm\\05 - Glitch and Twitch 140bpm - MLD1 Futurephonic.wav"
+ }
+}

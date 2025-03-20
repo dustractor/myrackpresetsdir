@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Ultra Drum and Bass Vocals\\Ultra_Drum_&_Bass_Vocals_Flex\\Vocals\\Ultra_Drum_&_ Bass_Vocals_Flex_172 BPM _F#m_Chorus_Harmony.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Ultra Drum and Bass Vocals\\Ultra_Drum_&_Bass_Vocals_Flex\\Vocals\\Ultra_Drum_&_ Bass_Vocals_Flex_172 BPM _F#m_Verse.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Ultra Drum and Bass Vocals\\Ultra_Drum_&_Bass_Vocals_Flex\\Vocals\\Ultra_Drum_&_ Bass_Vocals_Flex_172 BPM _F#m_Verse_2.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Ultra Drum and Bass Vocals\\Ultra_Drum_&_Bass_Vocals_Flex\\Vocals\\Ultra_Drum_&_ Bass_Vocals_Flex_172 BPM _F#m_Verse_2_Dub.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Ultra Drum and Bass Vocals\\Ultra_Drum_&_Bass_Vocals_Flex\\Vocals\\Ultra_Drum_&_Bass_Vocals_Flex_172_BPM_F#m_Full_WET.wav"
+ }
+}

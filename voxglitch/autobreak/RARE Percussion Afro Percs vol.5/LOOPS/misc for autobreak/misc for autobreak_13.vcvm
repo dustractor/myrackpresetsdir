@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_90_Rebolo_drum_loop_theme.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_90_Rebolo_drum_loop_thought.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_90_Rebolo_drum_loop_tone.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_90_shaker_loop_killin.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.5\\LOOPS\\misc for autobreak\\RARE_AP5_90_shekere_loop_slapper.wav"
+ }
+}

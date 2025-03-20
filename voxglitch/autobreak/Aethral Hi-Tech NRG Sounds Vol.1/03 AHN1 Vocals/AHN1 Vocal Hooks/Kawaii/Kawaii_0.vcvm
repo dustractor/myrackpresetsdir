@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Kawaii\\AHN1 Kawaii Hook AnywhereAnytime 150BPM FMaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Kawaii\\AHN1 Kawaii Hook LongDistanceLove 150BPM F#Maj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Kawaii\\AHN1 Kawaii Hook WonderfulDays 150BPM Cmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Kawaii\\AHN1 Kawaii HotStepJump HighHarm F#Maj 150BPM.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aethral Hi-Tech NRG Sounds Vol.1\\03 AHN1 Vocals\\AHN1 Vocal Hooks\\Kawaii\\AHN1 Kawaii HotStepJump LowHarms F#Maj 150BPM.wav"
+ }
+}

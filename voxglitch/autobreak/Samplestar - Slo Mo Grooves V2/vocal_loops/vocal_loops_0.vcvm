@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\vocal_loops\\SS_SMG2_100_vocal_aura_processed_adlib_Fmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\vocal_loops\\SS_SMG2_100_vocal_palm_chants_glitched_Amin_.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\vocal_loops\\SS_SMG2_100_vocal_palm_hook_distorted_Amin_.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\vocal_loops\\SS_SMG2_100_vocal_palm_hook_dry_Amin_.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\vocal_loops\\SS_SMG2_105_vocal_tumble_adlib_hook_chop_Gmin.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Cymatics - WRLD Melody Loop 5 - 140 BPM F Min.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Cymatics - WRLD Melody Loop 8 - 140 BPM A# Min.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Cymatics - X Arp Loop 48 - 140 BPM A# Maj.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Cymatics - X Chord Loop 41 - 140 BPM C Min.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\140_4bar_test1\\Cymatics - X Chord Loop 42 - 140 BPM C Min.wav"
+ }
+}

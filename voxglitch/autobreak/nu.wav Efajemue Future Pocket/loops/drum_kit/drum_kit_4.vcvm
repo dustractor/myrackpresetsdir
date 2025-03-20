@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\drum_kit\\NW_EE_122_drums_telescope_fuller_layered.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\drum_kit\\NW_EE_122_drums_telescope_main_layered.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\drum_kit\\NW_EE_122_drums_telescope_simple_kit.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\drum_kit\\NW_EE_122_drum_loop_bounce.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\drum_kit\\NW_EE_122_drum_loop_gilmore.wav"
+ }
+}

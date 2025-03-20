@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\80_BPM\\SC_AF_80_flute_thistle_accompaniment_wet_D#maj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\80_BPM\\SC_AF_80_flute_thistle_high_part_delays_D#maj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\80_BPM\\SC_AF_80_flute_thistle_high_part_dry_D#maj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\80_BPM\\SC_AF_80_flute_thistle_high_part_wet_D#maj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Sonic Collective Ambient Flute\\Loops\\Processed\\80_BPM\\SC_AF_80_flute_thistle_low_melody_dry_D#maj.wav"
+ }
+}

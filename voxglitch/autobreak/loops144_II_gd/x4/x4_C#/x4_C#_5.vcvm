@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C#\\e3 - 91V_SLU_122_vocal_adlib_baby_one_more_wet_C#m.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C#\\e3 - 91V_SLU_122_vocal_adlib_catchy_melody_wet_C#m.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C#\\e3 - 91V_SLU_122_vocal_adlib_hypnotic_wet_C#m.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C#\\e3 - 91V_SLU_122_vocal_adlib_mysterious_oh_no_wet_C#m.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x4\\x4_C#\\e3 - 91V_SLU_122_vocal_adlib_silo_soft_wet_C#m.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_18_Cries_Of_The_Fallen_128_BPM_Fm_Chops_WET.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_18_Cries_Of_The_Fallen_128_BPM_Fm_WET.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_19_Forsaken_Abm_WET.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_20_Lead_My_Spirit_128_BPM_Abm_WET.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Ultra Techno Vocals Gospel\\WET\\Ultra_Techno_Vocals_Gospel_21_Faith_128_BPM_Am_WET.wav"
+ }
+}

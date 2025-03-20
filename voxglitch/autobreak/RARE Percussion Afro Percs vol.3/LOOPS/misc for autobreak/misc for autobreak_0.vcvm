@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_100_Djembe_loop_bangs.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_100_Djembe_loop_spirit.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_100_Djembe_loop_theme.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_100_Djembe_loop_thought.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\RARE Percussion Afro Percs vol.3\\LOOPS\\misc for autobreak\\RARE_AP3_100_Kalimba_loop_Cmin_cracks.wav"
+ }
+}

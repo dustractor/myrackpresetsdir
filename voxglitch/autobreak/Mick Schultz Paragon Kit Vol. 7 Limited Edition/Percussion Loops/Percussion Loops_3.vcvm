@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Hat Loop Stationed 92.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Hat Loop Vapermist 90.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Hat Loop Via Lido 108.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Alive And Well 98.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Bell Tin 145.wav"
+ }
+}

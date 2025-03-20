@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Cuia\\MNT_DSA_120_shaker_shake_cuia_jaci_dry.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Cuia\\MNT_DSA_120_shaker_shake_cuia_jaci_fx.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Cuia\\MNT_DSA_130_shaker_shake_cuia_muiraquita_dry.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Cuia\\MNT_DSA_130_shaker_shake_cuia_muiraquita_fx.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Montage by Splice Dark Spirits Amazon Rhythms\\Loops\\Shaker\\Shake_Cuia\\MNT_DSA_139_shaker_shake_cuia_tibira_dry.wav"
+ }
+}

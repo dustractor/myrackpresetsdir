@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_never_let_me_go_dry_Gmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_never_too_much_dry_Gmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_over_and_over_dry_DOUBLE_L_Cmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_over_and_over_dry_DOUBLE_R_Cmin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_over_and_over_dry_HARMONIES_Cmin.wav"
+ }
+}

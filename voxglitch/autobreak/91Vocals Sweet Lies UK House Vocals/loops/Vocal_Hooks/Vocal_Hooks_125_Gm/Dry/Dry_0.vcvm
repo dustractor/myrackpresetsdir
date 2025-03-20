@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_125_Gm\\Dry\\91V_SLU_125_vocal_hook_down_to_business_double_dry_Gm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_125_Gm\\Dry\\91V_SLU_125_vocal_hook_down_to_business_lead_dry_Gm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_125_Gm\\Dry\\91V_SLU_125_vocal_hook_fire_burning_double_dry_Gm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_125_Gm\\Dry\\91V_SLU_125_vocal_hook_fire_burning_lead_dry_Gm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_125_Gm\\Dry\\91V_SLU_125_vocal_hook_just_you_and_i_dry_Gm.wav"
+ }
+}

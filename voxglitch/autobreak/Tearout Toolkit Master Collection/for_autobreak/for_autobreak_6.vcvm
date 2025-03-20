@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_cowar_and_run.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_dont_wanna_cry.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_feeling.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_free_me.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Tearout Toolkit Master Collection\\for_autobreak\\AKV_ttk_vocal_loop_wet_140bpm_dmin_heartbeat.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\16 - Clip and Clop 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\17 - Elastic Bandaid 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\18 - Francis Bearbreak 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\19 - Keep on Blasting 145bpm - MLD1 Futurephonic.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Futurephonic - Matrix Loops\\MATRIX LOOPS 145bpm\\20 - Outbreak 145bpm - MLD1 Futurephonic.wav"
+ }
+}

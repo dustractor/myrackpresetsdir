@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_120_vocal_loop_chops_Emin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_120_vocal_loop_chops_G.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_120_vocal_loop_stutters_piya_G.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_122_vocal_loop_dil_mera_soaring_C.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_128_vocal_loop_dil_mera_stutter_C.wav"
+ }
+}

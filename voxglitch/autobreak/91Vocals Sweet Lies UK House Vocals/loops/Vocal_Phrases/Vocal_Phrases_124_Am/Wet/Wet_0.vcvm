@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_124_Am\\Wet\\91V_SLU_124_vocal_phrase_good_love_formant_wet_Am.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_124_Am\\Wet\\91V_SLU_124_vocal_phrase_good_love_lead_wet_Am.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_124_Am\\Wet\\91V_SLU_124_vocal_phrase_good_love_stack_wet_Am.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_124_Am\\Wet\\91V_SLU_124_vocal_phrase_let_me_love_you_wet_Am.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Phrases\\Vocal_Phrases_124_Am\\Wet\\91V_SLU_124_vocal_phrase_this_feeling_wet_Am.wav"
+ }
+}

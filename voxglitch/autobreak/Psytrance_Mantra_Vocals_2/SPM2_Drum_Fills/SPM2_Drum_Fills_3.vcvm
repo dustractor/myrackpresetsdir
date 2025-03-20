@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Drum_Fills\\SPM2_140_Snare_Fill_14_Triplet.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Drum_Fills\\SPM2_140_Snare_Fill_15_Triplet.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Drum_Fills\\SPM2_140_Snare_Fill_16_Triplet.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Drum_Fills\\SPM2_140_Snare_Fill_17_Triplet.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Drum_Fills\\SPM2_140_Snare_Fill_18_Triplet.wav"
+ }
+}

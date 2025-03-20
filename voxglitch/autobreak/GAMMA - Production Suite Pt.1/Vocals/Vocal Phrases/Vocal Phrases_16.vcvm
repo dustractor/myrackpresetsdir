@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 81 - (140BPM) - YEAHHH #2.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 82 - (140BPM) - OOOh.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 83 - (140BPM) - OOOh #2.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 84 - (140BPM) - Yo.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\GAMMA - Production Suite Pt.1\\Vocals\\Vocal Phrases\\GPE - GAMMA - Vocals - Phrases - 85 - (140BPM) - I - Feel - Good.wav"
+ }
+}

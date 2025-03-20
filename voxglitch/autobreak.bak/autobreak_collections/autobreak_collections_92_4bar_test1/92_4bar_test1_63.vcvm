@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Meters - The Hand Clapping Song (part2).wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Metic - Funk Guitar Riff - 92 BPM Bb Min.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Metic - Funk Guitar Riff Harmony - 92 BPM Bb Min.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Metic - Funk Guitar Swirls - 92 BPM Bb Min.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\92_4bar_test1\\Michael Jackson - Thriller.wav"
+ }
+}

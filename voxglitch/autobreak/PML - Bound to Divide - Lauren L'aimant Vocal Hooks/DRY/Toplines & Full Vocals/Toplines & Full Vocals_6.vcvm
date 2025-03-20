@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_125bpm_vocal_topline_lose_myself_dry_DOUBLE_L_Gmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_125bpm_vocal_topline_lose_myself_dry_DOUBLE_R_Gmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_125bpm_vocal_topline_lose_myself_dry_HARMONIES_Gmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_125bpm_vocal_topline_lose_myself_dry_MAIN_Gmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Toplines & Full Vocals\\Lauren-Laimant_85bpm_vocal_topline_what_u_have_dry_DOUBLE_Amin.wav"
+ }
+}

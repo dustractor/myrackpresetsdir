@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Phrases\\Dry\\91V_VHA_128_vocal_phrase_all_hearts_on_the_dancefloor_dry_Bm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Phrases\\Dry\\91V_VHA_128_vocal_phrase_ask_no_more_dry_Bm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Phrases\\Dry\\91V_VHA_128_vocal_phrase_body_and_soul_dry_Bm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Phrases\\Dry\\91V_VHA_128_vocal_phrase_flip_and_reverse_dry_Bm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Phrases\\Dry\\91V_VHA_128_vocal_phrase_supersonic_dry_Bm.wav"
+ }
+}

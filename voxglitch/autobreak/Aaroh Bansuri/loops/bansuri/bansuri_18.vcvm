@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_75_bansuri_low_breath_C#.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_75_bansuri_muskaan_Cmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_75_bansuri_myths_high_Bmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_75_bansuri_peacock_dance_C#min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Bansuri\\loops\\bansuri\\AR_BNS_80_bansuri_adbhut_F#.wav"
+ }
+}

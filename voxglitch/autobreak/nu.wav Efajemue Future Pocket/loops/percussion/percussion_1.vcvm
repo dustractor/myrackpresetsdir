@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_102_perc_loop_boombap_tambo.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_110_perc_loop_trippy_bongo_hat_top.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_110_perc_loop_trippy_rattle.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_115_perc_loop_thump_shaker.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\percussion\\NW_EE_115_perc_loop_thump_shaker_stack_top_phased.wav"
+ }
+}

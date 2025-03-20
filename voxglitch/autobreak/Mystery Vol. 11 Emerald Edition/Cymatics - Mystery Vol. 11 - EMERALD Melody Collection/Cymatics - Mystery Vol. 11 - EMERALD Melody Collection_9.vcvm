@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Visitor - 86 BPM A Maj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Windows Down - 95 BPM E Min.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Wounded - 140 BPM A# Min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Your Mind - 132 BPM E Min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mystery Vol. 11 Emerald Edition\\Cymatics - Mystery Vol. 11 - EMERALD Melody Collection\\Cymatics - Zoom - 118 BPM F# Min.wav"
+ }
+}

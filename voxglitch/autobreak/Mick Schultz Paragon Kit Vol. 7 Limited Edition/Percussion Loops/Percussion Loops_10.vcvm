@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Use In Place Of A Hihat 120.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Vision Pro 150.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop White Noise Sounds Like Shakers 140.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Shaker Loop Handover 124.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Shaker Loop Whistler Mountain 119.wav"
+ }
+}

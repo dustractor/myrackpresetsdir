@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\LOOP\\breakbeat loops\\Johnny Hammond - Soul Talk '70 (part2).wav",
+  "loaded_sample_path_2": "d:\\zSamples\\LOOP\\breakbeat loops\\Johnny Holiday - Tormented.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\LOOP\\breakbeat loops\\Johnny Jenkins - I Walk On Guilded Splinters (ver.2) (part2).wav",
+  "loaded_sample_path_4": "d:\\zSamples\\LOOP\\breakbeat loops\\Johnny Pate - Shaft In Africa.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\LOOP\\breakbeat loops\\Johnny Pearson - Product Efficiency.wav"
+ }
+}

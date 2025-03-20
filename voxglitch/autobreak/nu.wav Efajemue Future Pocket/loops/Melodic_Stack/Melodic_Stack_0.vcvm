@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\Melodic_Stack\\NW_EE_100_keys_stack_full_crunchy_Bb.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\Melodic_Stack\\NW_EE_100_keys_stack_top_crunchy_Bb.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\Melodic_Stack\\NW_EE_120_keys_stack_tape_dance_arp_F#.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\Melodic_Stack\\NW_EE_120_keys_stack_tape_dance_chords_F#.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\nu.wav Efajemue Future Pocket\\loops\\Melodic_Stack\\NW_EE_122_keys_stack_gilmore_Eb.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Dream Girl Vocal Pop\\Loops\\Melodic_Loops\\Vocal_Loops\\STCR2_DGVP_113_Vocal_Hook_Loop_Go_WET_Bmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Dream Girl Vocal Pop\\Loops\\Melodic_Loops\\Vocal_Loops\\STCR2_DGVP_117_Vocal_Hook_Loop_Addiction_DRY_Fmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Dream Girl Vocal Pop\\Loops\\Melodic_Loops\\Vocal_Loops\\STCR2_DGVP_117_Vocal_Hook_Loop_Addiction_WET_Fmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Dream Girl Vocal Pop\\Loops\\Melodic_Loops\\Vocal_Loops\\STCR2_DGVP_117_Vocal_Hook_Loop_Left_ME_DRY_Fmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Dream Girl Vocal Pop\\Loops\\Melodic_Loops\\Vocal_Loops\\STCR2_DGVP_117_Vocal_Hook_Loop_Left_Me_WET_Fmaj.wav"
+ }
+}

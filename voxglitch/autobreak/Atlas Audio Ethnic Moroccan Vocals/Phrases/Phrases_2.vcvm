@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Atlas Audio Ethnic Moroccan Vocals\\Phrases\\AA_EMV_Phrase_1_Bm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Atlas Audio Ethnic Moroccan Vocals\\Phrases\\AA_EMV_Phrase_20_Abm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Atlas Audio Ethnic Moroccan Vocals\\Phrases\\AA_EMV_Phrase_21_Am.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Atlas Audio Ethnic Moroccan Vocals\\Phrases\\AA_EMV_Phrase_22_Abm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Atlas Audio Ethnic Moroccan Vocals\\Phrases\\AA_EMV_Phrase_23_Fm.wav"
+ }
+}

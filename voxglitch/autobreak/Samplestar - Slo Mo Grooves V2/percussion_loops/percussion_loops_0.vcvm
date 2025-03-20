@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\percussion_loops\\SS_SMG2_100_drums_percussion_palm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\percussion_loops\\SS_SMG2_105_drums_percussion_tumble.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\percussion_loops\\SS_SMG2_108_drums_percussion_paradise.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\percussion_loops\\SS_SMG2_110_drums_percussion_laguna.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Samplestar - Slo Mo Grooves V2\\percussion_loops\\SS_SMG2_96_drums_percussion_pure.wav"
+ }
+}

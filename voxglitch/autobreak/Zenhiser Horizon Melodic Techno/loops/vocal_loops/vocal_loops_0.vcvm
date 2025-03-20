@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Zenhiser Horizon Melodic Techno\\loops\\vocal_loops\\ZEN_HMT_125_vocal_loop_chimera_Abm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Zenhiser Horizon Melodic Techno\\loops\\vocal_loops\\ZEN_HMT_125_vocal_loop_laguna_Bbm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Zenhiser Horizon Melodic Techno\\loops\\vocal_loops\\ZEN_HMT_125_vocal_loop_phos_Bbm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Zenhiser Horizon Melodic Techno\\loops\\vocal_loops\\ZEN_HMT_125_vocal_loop_vesper_Eb.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Zenhiser Horizon Melodic Techno\\loops\\vocal_loops\\ZEN_HMT_126_vocal_loop_baggy_Fm.wav"
+ }
+}

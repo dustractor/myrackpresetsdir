@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_128_vocal_loop_maajhi_chopped_G.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_128_vocal_loop_tere_bina_chop_Cmaj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_130_vocal_loop_stutter_Gmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_140_vocal_loop_helicopter_F.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Aaroh Baalti Spice Box\\Vocals\\BAALTI_140_vocal_loop_helicopter_G.wav"
+ }
+}

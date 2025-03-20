@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_120_Em\\Dry\\91V_SLU_120_vocal_hook_feels_like_heaven_double_dry_Em.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_120_Em\\Dry\\91V_SLU_120_vocal_hook_feels_like_heaven_lead_dry_Em.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_120_Em\\Dry\\91V_SLU_120_vocal_hook_if_i_knew_better_double_dry_Em.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_120_Em\\Dry\\91V_SLU_120_vocal_hook_if_i_knew_better_lead_dry_Em.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Sweet Lies UK House Vocals\\loops\\Vocal_Hooks\\Vocal_Hooks_120_Em\\Dry\\91V_SLU_120_vocal_hook_i_miss_you_lead_dry_Em.wav"
+ }
+}

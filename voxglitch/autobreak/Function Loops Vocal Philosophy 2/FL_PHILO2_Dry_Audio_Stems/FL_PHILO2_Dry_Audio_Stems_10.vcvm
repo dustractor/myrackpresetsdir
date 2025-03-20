@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Quite_Alright.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Relentless_Dedication.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Resilience_Erode.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Ruthless_Ambition.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Function Loops Vocal Philosophy 2\\FL_PHILO2_Dry_Audio_Stems\\FL_PHILO2_Vocal_Loop_Female_Spoken_Simply_Trusting.wav"
+ }
+}

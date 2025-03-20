@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_dont_let_me_down_dry_Bmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_dont_let_this_be_a_lie_dry_Amin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_dont_make_me_wait_dry_F#maj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_do_ya_feel_alive_dry_F#maj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Hooks\\Lauren-Laimant_124bpm_vocal_hook_Feel_right_dry_Bmin.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Adlibs\\Lauren-Laimant_100bpm_vocal_adlib_chest_voice_Ohhhuh_Emin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Adlibs\\Lauren-Laimant_100bpm_vocal_adlib_chest_voice_Ohhh_Emin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Adlibs\\Lauren-Laimant_100bpm_vocal_adlib_chest_voice_Oh_ho_yeah_Dmin.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Adlibs\\Lauren-Laimant_100bpm_vocal_adlib_chest_voice_Yeahuh_Emin.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\PML - Bound to Divide - Lauren L'aimant Vocal Hooks\\DRY\\Adlibs\\Lauren-Laimant_100bpm_vocal_adlib_head_voice_Uhhh_Dmin.wav"
+ }
+}

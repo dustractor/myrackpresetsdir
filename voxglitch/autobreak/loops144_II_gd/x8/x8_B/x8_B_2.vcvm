@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_hook_feel_it_feel_it_double_wet_Bm.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_hook_feel_it_feel_it_lead_wet_Bm.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_hook_feel_it_feel_it_stack_wet_Bm.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_hook_hearts_dont_break_lead_wet_Bm.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_B\\e4 - 91V_SLU_128_vocal_hook_hearts_go_dun_double_wet_Bm.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Gio Israel Peruvian Flutes WAV\\Loops\\Kuntur\\GIO_PERU_105_kuntur_flute_beauty_E.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Gio Israel Peruvian Flutes WAV\\Loops\\Kuntur\\GIO_PERU_105_kuntur_flute_ceremony_E.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Gio Israel Peruvian Flutes WAV\\Loops\\Kuntur\\GIO_PERU_105_kuntur_flute_cheerful_3-4_E.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Gio Israel Peruvian Flutes WAV\\Loops\\Kuntur\\GIO_PERU_105_kuntur_flute_gathering_E.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Gio Israel Peruvian Flutes WAV\\Loops\\Kuntur\\GIO_PERU_105_kuntur_flute_official_E.wav"
+ }
+}

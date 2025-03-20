@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\polapization loops\\skygate-C-min-75bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\polapization loops\\SoulSister-AMAJOR-158bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\polapization loops\\SPINX-g#maj-122bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\polapization loops\\stingray-A#-maj-82bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\polapization loops\\Suit-BMINOR-88bpm.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Zenhiser Feathers - Organic House\\loops\\music_loops\\ZEN_FTR_122_music_loop_sunshine_Gmaj.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Zenhiser Feathers - Organic House\\loops\\music_loops\\ZEN_FTR_122_music_loop_tetris_Ebmin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Zenhiser Feathers - Organic House\\loops\\music_loops\\ZEN_FTR_122_music_loop_vento_Emaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Zenhiser Feathers - Organic House\\loops\\music_loops\\ZEN_FTR_122_music_loop_virus_Amaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Zenhiser Feathers - Organic House\\loops\\music_loops\\ZEN_FTR_122_music_loop_wild_spirit_F#maj.wav"
+ }
+}

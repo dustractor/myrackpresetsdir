@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\jackiejackson-isithimorme-85.6bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\jamesbrown-funkypresident-102.1bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\jamestaylor-knockingroundthezoo.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\joetex-papawastoo-89bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol2\\ledzeppelin-whentheleveebreaks-70.6bpm.wav"
+ }
+}

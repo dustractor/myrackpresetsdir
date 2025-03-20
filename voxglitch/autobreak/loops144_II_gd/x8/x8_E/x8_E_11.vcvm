@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e3 - 91V_ATV_145_vocal_hook_hills_will_roll_double_wet_E.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e3 - 91V_ATV_145_vocal_hook_hills_will_roll_lead_wet_E.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e3 - 91V_ATV_145_vocal_hook_it_takes_more_double_wet_E.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e3 - 91V_ATV_145_vocal_hook_it_takes_more_lead_wet_E.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\loops144_II_gd\\x8\\x8_E\\e3 - 91V_ATV_145_vocal_hook_purple_hues_double_wet_E.wav"
+ }
+}

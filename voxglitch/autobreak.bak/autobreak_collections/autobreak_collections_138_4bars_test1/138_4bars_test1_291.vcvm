@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vibrations Reggae Guitar Loop 2 - 140 BPM D Maj.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vibrations Reggae Guitar Loop 20 - 140 BPM A Maj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vibrations Reggae Guitar Loop 3 - 140 BPM D Maj.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vibrations Reggae Guitar Loop 4 - 140 BPM D# Maj.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\138_4bars_test1\\Cymatics - Vibrations Reggae Guitar Loop 5 - 140 BPM D# Maj.wav"
+ }
+}

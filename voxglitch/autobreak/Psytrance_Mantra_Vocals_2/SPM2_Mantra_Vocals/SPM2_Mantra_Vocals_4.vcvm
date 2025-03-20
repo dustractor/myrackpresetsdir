@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_A_Female_Mantra_Vocal_11_Dry_(Om_Sai_Nath).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_A_Female_Mantra_Vocal_11_Wet_(Om_Sai_Nath).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_A_Female_Mantra_Vocal_12_Dry_(Ra_Ma_Da_Sa).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_A_Female_Mantra_Vocal_12_Wet_(Ra_Ma_Da_Sa).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_A_Female_Mantra_Vocal_13_Dry_(Ra_Ma_Da_Sa).wav"
+ }
+}

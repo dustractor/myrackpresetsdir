@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_126_vocal_vocoder_marching_chords_C#.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_126_vocal_vocoder_your_glory_chords_G.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_128_vocal_vocoder_beware_chords_Cm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_128_vocal_vocoder_pulsing_chords_C#.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocoder\\91V_VHA_128_vocal_vocoder_see_you_again_chords_Am.wav"
+ }
+}

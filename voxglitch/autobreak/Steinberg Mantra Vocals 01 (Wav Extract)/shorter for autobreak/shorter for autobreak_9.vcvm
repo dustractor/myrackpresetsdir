@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Hanuman 01 - 04 Maruthim Namatha Rakshasanthagam C_DG.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Hanuman 02 - 01 Manojavam Maarutatulyavegam C_DG.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Hanuman 02 - 02 Jitendriyam Buddhimatam Varishtham C_DG.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Hanuman 02 - 03 Vatatmajam Vanarayuthamukhyam C 03_DG.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Steinberg Mantra Vocals 01 (Wav Extract)\\shorter for autobreak\\Mantra - Hanuman 02 - 04 Shriramadutam Sharanam Prapadye C_DG.wav"
+ }
+}

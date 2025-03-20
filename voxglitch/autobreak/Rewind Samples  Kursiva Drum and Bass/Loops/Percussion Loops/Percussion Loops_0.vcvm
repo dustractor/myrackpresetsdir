@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Percussion Loops\\RWS_KRS_01_Perc_172.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Percussion Loops\\RWS_KRS_02_Clap_174.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Percussion Loops\\RWS_KRS_03_Tambourine_172.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Percussion Loops\\RWS_KRS_04_Tambourine_175.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Rewind Samples  Kursiva Drum and Bass\\Loops\\Percussion Loops\\RWS_KRS_05_Shaker_174.wav"
+ }
+}

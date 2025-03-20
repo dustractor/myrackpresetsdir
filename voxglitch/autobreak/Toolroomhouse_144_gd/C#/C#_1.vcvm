@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Toolroomhouse_144_gd\\C#\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_nothing_works_C#.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Toolroomhouse_144_gd\\C#\\techhousevocalswksp - T_HV3_128_vocal_phrase_loop_wet_your_love_C#.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Toolroomhouse_144_gd\\C#\\techhousevocalswksp - T_HV3_128_vocal_phrase_oneshot_wet_dont_give_up_Db.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Toolroomhouse_144_gd\\C#\\techhousevocalswksp - T_HV3_128_vocal_phrase_oneshot_wet_feeling_good_variation_C#.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Toolroomhouse_144_gd\\C#\\techhousevocalswksp - T_HV3_128_vocal_phrase_oneshot_wet_your_heart_C#.wav"
+ }
+}

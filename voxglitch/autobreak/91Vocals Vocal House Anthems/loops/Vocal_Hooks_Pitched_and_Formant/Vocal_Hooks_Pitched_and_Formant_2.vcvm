@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_134_vocal_hook_pitched_glitter_and_gold_dry_C#m.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_134_vocal_hook_pitched_glitter_and_gold_wet_C#m.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_140_vocal_hook_pitched_needed_you_dry_Fm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_140_vocal_hook_pitched_needed_you_wet_Fm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Vocal House Anthems\\loops\\Vocal_Hooks_Pitched_and_Formant\\91V_VHA_140_vocal_hook_pitched_what_can_i_do_dry_F#m.wav"
+ }
+}

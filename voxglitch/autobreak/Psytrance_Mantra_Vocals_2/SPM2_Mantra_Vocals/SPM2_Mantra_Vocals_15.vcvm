@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_38_Dry_(Govinda_Jaya_Jaya).wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_38_Wet_(Govinda_Jaya_Jaya).wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_39_Dry_(Ganeshaya_Namaha).wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_39_Wet_(Ganeshaya_Namaha).wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Psytrance_Mantra_Vocals_2\\SPM2_Mantra_Vocals\\SPM2_140_D_Female_Mantra_Vocal_40_Dry_(Ganeshaya_Sharanam).wav"
+ }
+}

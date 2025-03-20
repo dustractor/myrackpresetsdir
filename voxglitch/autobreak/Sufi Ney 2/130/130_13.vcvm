@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\Sufi Ney 2\\130\\SN2_130_B_Ney_Wind_33_wet_ET.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\Sufi Ney 2\\130\\SN2_130_B_Ney_Wind_34_dry_ET.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\Sufi Ney 2\\130\\SN2_130_B_Ney_Wind_34_wet_ET.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\Sufi Ney 2\\130\\SN2_130_B_Ney_Wind_35_dry_ET.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\Sufi Ney 2\\130\\SN2_130_B_Ney_Wind_35_wet_ET.wav"
+ }
+}

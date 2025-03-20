@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Percussive Sequences\\SMT_TR_PSeq_125_12_V1_Cm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Percussive Sequences\\SMT_TR_PSeq_125_12_V2_Cm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Percussive Sequences\\SMT_TR_PSeq_125_12_V3_Cm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Percussive Sequences\\SMT_TR_PSeq_125_13_D#.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Percussive Sequences\\SMT_TR_PSeq_125_13_V1_D#.wav"
+ }
+}

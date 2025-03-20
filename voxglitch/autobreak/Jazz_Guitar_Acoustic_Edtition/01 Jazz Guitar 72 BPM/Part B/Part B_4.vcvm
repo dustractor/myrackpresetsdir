@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\01 Jazz Guitar 72 BPM\\Part B\\21 Acoustic Guitar - 72 BPM - Fm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\01 Jazz Guitar 72 BPM\\Part B\\22 Acoustic Guitar - 72 BPM - Fm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\01 Jazz Guitar 72 BPM\\Part B\\23 Acoustic Guitar - 72 BPM - Fm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\01 Jazz Guitar 72 BPM\\Part B\\24 Acoustic Guitar - 72 BPM - Fm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\01 Jazz Guitar 72 BPM\\Part B\\25 Acoustic Guitar - 72 BPM - Fm.wav"
+ }
+}

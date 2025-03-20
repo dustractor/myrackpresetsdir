@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_145400 120bpm Back to Front.wav",
+  "loaded_sample_path_2": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_145534 120bpm Back to Front.wav",
+  "loaded_sample_path_3": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_145703 120bpm Back to Front.wav",
+  "loaded_sample_path_4": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_145753 120bpm Come n Get It - var 2.wav",
+  "loaded_sample_path_5": "d:\\zSamples\\misc\\XOBeats\\XO-Beat 2024-01-11_145841 120bpm Come n Get It - var 2.wav"
+ }
+}

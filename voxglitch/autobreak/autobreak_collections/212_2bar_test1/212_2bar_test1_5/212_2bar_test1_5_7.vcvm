@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Cymatics - Deluxe Male Ad Lib Dry 12 - 110 BPM E Min.wav",
+  "loaded_sample_path_2": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Cymatics - Deluxe Male Ad Lib Dry 19 - 110 BPM B Maj.wav",
+  "loaded_sample_path_3": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Cymatics - Deluxe Male Sung Phrase Dry 16 - 110 BPM B Maj - Oh Baby.wav",
+  "loaded_sample_path_4": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Cymatics - Deluxe Vocal Collection Ragga Phrase 18 - 110 BPM.wav",
+  "loaded_sample_path_5": "c:\\Users\\user\\Documents\\autobreak_collections\\212_2bar_test1\\212_2bar_test1_5\\Cymatics - Feelin Like The Best - 110 BPM.wav"
+ }
+}

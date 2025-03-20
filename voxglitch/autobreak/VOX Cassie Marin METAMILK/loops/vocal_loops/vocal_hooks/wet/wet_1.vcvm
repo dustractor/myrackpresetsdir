@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_hooks\\wet\\VOX_CASSIEMARIN_100_vocal_hook_tienes_wet_Dbmin.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_hooks\\wet\\VOX_CASSIEMARIN_110_vocal_hook_faster_wet_Amin.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_hooks\\wet\\VOX_CASSIEMARIN_110_vocal_hook_toss_and_turn_wide_wet_Ebmaj.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_hooks\\wet\\VOX_CASSIEMARIN_110_vocal_hook_voyaestar_wet_Cmaj.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\VOX Cassie Marin METAMILK\\loops\\vocal_loops\\vocal_hooks\\wet\\VOX_CASSIEMARIN_110_vocal_hook_wdym_wet_Bmaj.wav"
+ }
+}

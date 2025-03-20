@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\15 Jazz Guitar 240 BPM\\Part B\\11 Acoustic Guitar - 240 BPM - Cm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\15 Jazz Guitar 240 BPM\\Part B\\12 Acoustic Guitar - 240 BPM - Cm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\15 Jazz Guitar 240 BPM\\Part B\\13 Acoustic Guitar - 240 BPM - Cm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\15 Jazz Guitar 240 BPM\\Part B\\14 Acoustic Guitar - 240 BPM - Cm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Jazz_Guitar_Acoustic_Edtition\\15 Jazz Guitar 240 BPM\\Part B\\15 Acoustic Guitar - 240 BPM - Cm.wav"
+ }
+}

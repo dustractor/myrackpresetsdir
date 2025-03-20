@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop From My Live Room (no claps) 94.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop From My Live Room 94.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Gold Waterfalls 74.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Hand Drum From Jackson Hole 138.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mick Schultz Paragon Kit Vol. 7 Limited Edition\\Percussion Loops\\MICK Perc Loop Inside The Court Bit Crushed 81.wav"
+ }
+}

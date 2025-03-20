@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Loops\\91V_ATV_145_vocal_loop_music_takes_you_there_lofi_E.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Loops\\91V_ATV_145_vocal_loop_never_let_you_go_stack_E.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Loops\\91V_ATV_145_vocal_loop_three_little_words_swirly_E.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Loops\\91V_ATV_150_vocal_loop_taunt_haunt_topper_Gm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\91Vocals Angelic Trance Vocals\\loops\\Vocal_Loops\\91V_ATV_150_vocal_loop_why_tho_chords_Gm.wav"
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Trials - 125 BPM F# Min.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Truly - 86 BPM A Maj.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Ultra - 90 BPM C# Min.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Utilize - 146 BPM G Min.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Mystery Pack Vol. 12 Gold Edition\\GOLD Melody Collection\\Cymatics - Varsity - 105 BPM A# Min.wav"
+ }
+}

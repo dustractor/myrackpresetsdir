@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\Image Sounds - Folk Harmonica\\02 Folk Harmonica - 75 BPM - Fm\\Part B\\01 Harmonica - 75 BPM - Fm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\Image Sounds - Folk Harmonica\\02 Folk Harmonica - 75 BPM - Fm\\Part B\\02 Harmonica - 75 BPM - Fm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\Image Sounds - Folk Harmonica\\02 Folk Harmonica - 75 BPM - Fm\\Part B\\03 Harmonica - 75 BPM - Fm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\Image Sounds - Folk Harmonica\\02 Folk Harmonica - 75 BPM - Fm\\Part B\\04 Harmonica - 75 BPM - Fm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\Image Sounds - Folk Harmonica\\02 Folk Harmonica - 75 BPM - Fm\\Part B\\05 Harmonica - 75 BPM - Fm.wav"
+ }
+}

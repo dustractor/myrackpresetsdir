@@ -1,0 +1,22 @@
+{
+ "plugin": "voxglitch",
+ "model": "autobreak",
+ "version": "2.28.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  }
+ ],
+ "data": {
+  "loaded_sample_path_1": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\billysquier-bigbeat-102bpm.wav",
+  "loaded_sample_path_2": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\blackheat-zimbaku-87.2bpm.wav",
+  "loaded_sample_path_3": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\bobazzam-raingoaway-74.2bpm.wav",
+  "loaded_sample_path_4": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\captainsky-supersperm-115.1bpm.wav",
+  "loaded_sample_path_5": "D:\\zSamples\\NU SCHOOL TECHSTEP Samples\\Sl8r Free Jungle Breaks\\TS-ClassicBreaksVol1\\TS-ClassicBreaksVol1\\christinemcvie-andthatssayingalot-78.5bpm.wav"
+ }
+}
