@@ -1,0 +1,37 @@
+{
+  "plugin": "ImpromptuModular",
+  "model": "Twelve-Key",
+  "version": "2.5.0",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    }
+  ],
+  "data": {
+    "panelTheme": 2,
+    "panelContrast": 220.0,
+    "octave": 4,
+    "cv": 0.0,
+    "vel": 0.71869421005249023,
+    "maxVel": 10.0,
+    "stateInternal": true,
+    "invertVel": false,
+    "linkVelSettings": false,
+    "tracer": 1,
+    "keyView": 0,
+    "pkinfokey": 0
+  }
+}

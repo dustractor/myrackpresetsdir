@@ -1,0 +1,26 @@
+{
+  "plugin": "DHE-Modules",
+  "model": "Func",
+  "version": "2.0.3",
+  "params": [
+    {
+      "value": 0.010843373835086823,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 2.0,
+      "id": 2
+    },
+    {
+      "value": 2.0,
+      "id": 3
+    }
+  ],
+  "data": {
+    "preset_version": 0
+  }
+}
