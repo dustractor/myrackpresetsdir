@@ -1,0 +1,90 @@
+{
+  "plugin": "Venom",
+  "model": "Push5",
+  "version": "2.11.1",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 0.0,
+      "id": 2
+    },
+    {
+      "value": 0.0,
+      "id": 3
+    },
+    {
+      "value": 0.0,
+      "id": 4
+    }
+  ],
+  "data": {
+    "paramLock0": false,
+    "paramDflt0": 0.0,
+    "paramVal0": 0.0,
+    "paramName0": "Button 1",
+    "paramLock1": false,
+    "paramDflt1": 0.0,
+    "paramVal1": 0.0,
+    "paramName1": "Button 2",
+    "paramLock2": false,
+    "paramDflt2": 0.0,
+    "paramVal2": 0.0,
+    "paramName2": "Button 3",
+    "paramLock3": false,
+    "paramDflt3": 0.0,
+    "paramVal3": 0.0,
+    "paramName3": "Button 4",
+    "paramLock4": false,
+    "paramDflt4": 0.0,
+    "paramVal4": 0.0,
+    "paramName4": "Button 5",
+    "outputName0": "Button 1",
+    "outputName1": "Button 2",
+    "outputName2": "Button 3",
+    "outputName3": "Button 4",
+    "outputName4": "Button 5",
+    "currentTheme": 0,
+    "mode0": 1,
+    "onVal0": 0,
+    "offVal0": 3,
+    "onColor0": 6,
+    "offColor0": 13,
+    "lightOn0": false,
+    "poly0": 4,
+    "mode1": 1,
+    "onVal1": 0,
+    "offVal1": 3,
+    "onColor1": 6,
+    "offColor1": 13,
+    "lightOn1": false,
+    "poly1": 4,
+    "mode2": 1,
+    "onVal2": 0,
+    "offVal2": 3,
+    "onColor2": 6,
+    "offColor2": 13,
+    "lightOn2": false,
+    "poly2": 4,
+    "mode3": 1,
+    "onVal3": 0,
+    "offVal3": 3,
+    "onColor3": 6,
+    "offColor3": 13,
+    "lightOn3": false,
+    "poly3": 4,
+    "mode4": 1,
+    "onVal4": 0,
+    "offVal4": 3,
+    "onColor4": 6,
+    "offColor4": 13,
+    "lightOn4": false,
+    "poly4": 1
+  }
+}

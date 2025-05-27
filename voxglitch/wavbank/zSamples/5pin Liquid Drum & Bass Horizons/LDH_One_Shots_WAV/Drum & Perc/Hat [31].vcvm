@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "d:\\zSamples\\5pin Liquid Drum & Bass Horizons\\LDH_One_Shots_WAV\\Drum & Perc\\Hat",
+  "trig_input_response_mode": 0
+ }
+}

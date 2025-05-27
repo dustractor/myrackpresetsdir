@@ -1,0 +1,135 @@
+{
+  "plugin": "SurgeXTRack",
+  "model": "SurgeXTWaveshaper",
+  "version": "2.2.9.0",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 0.0,
+      "id": 1
+    },
+    {
+      "value": 1.0,
+      "id": 2
+    },
+    {
+      "value": -60.0,
+      "id": 3
+    },
+    {
+      "value": 70.0,
+      "id": 4
+    },
+    {
+      "value": 0.0,
+      "id": 5
+    },
+    {
+      "value": 0.0,
+      "id": 6
+    },
+    {
+      "value": 0.0,
+      "id": 7
+    },
+    {
+      "value": 0.0,
+      "id": 8
+    },
+    {
+      "value": 0.0,
+      "id": 9
+    },
+    {
+      "value": 0.0,
+      "id": 10
+    },
+    {
+      "value": 0.0,
+      "id": 11
+    },
+    {
+      "value": 0.0,
+      "id": 12
+    },
+    {
+      "value": 0.0,
+      "id": 13
+    },
+    {
+      "value": 0.0,
+      "id": 14
+    },
+    {
+      "value": 0.0,
+      "id": 15
+    },
+    {
+      "value": 0.0,
+      "id": 16
+    },
+    {
+      "value": 0.0,
+      "id": 17
+    },
+    {
+      "value": 0.0,
+      "id": 18
+    },
+    {
+      "value": 0.0,
+      "id": 19
+    },
+    {
+      "value": 0.0,
+      "id": 20
+    },
+    {
+      "value": 0.0,
+      "id": 21
+    },
+    {
+      "value": 0.0,
+      "id": 22
+    },
+    {
+      "value": 0.0,
+      "id": 23
+    },
+    {
+      "value": 0.0,
+      "id": 24
+    },
+    {
+      "value": 1.0,
+      "id": 25
+    },
+    {
+      "value": 0.0,
+      "id": 26
+    },
+    {
+      "value": 0.0,
+      "id": 27
+    }
+  ],
+  "data": {
+    "xtshared": {
+      "streamingVersion": 1,
+      "buildInfo": "os:win surge:304f6dc2 buildtime=Apr 21 2025 22:51:49",
+      "isCoupledToGlobalStyle": true,
+      "localStyle": 10001,
+      "localDisplayRegionColor": 900007,
+      "localModulationColor": 900003,
+      "localControlValueColor": 900001,
+      "localPowerButtonColor": 900003
+    },
+    "modulespecific": {
+      "doDCBlock": false,
+      "displayPolyChannel": 0
+    }
+  }
+}

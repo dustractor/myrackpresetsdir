@@ -1,0 +1,15 @@
+{
+  "plugin": "SubmarineFree",
+  "model": "A0-101",
+  "version": "2.0.4",
+  "params": [
+    {
+      "value": 39.0,
+      "id": 0
+    },
+    {
+      "value": 100.0,
+      "id": 1
+    }
+  ]
+}

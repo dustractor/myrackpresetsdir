@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "d:\\zSamples\\Ghost Syndicate Atlantis Future Garage Sample Pack WAV Ableton Live Pack\\GS_ATLANTIS_Bonus\\GS_ATLNTS_Drum Kits\\GS_ATLNTS_Drum Kit 005",
+  "trig_input_response_mode": 0
+ }
+}

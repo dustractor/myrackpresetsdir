@@ -1,0 +1,30 @@
+{
+  "plugin": "SickoCV",
+  "model": "HolderCompact",
+  "version": "2.7.3",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 1.0,
+      "id": 1
+    },
+    {
+      "value": 1.0,
+      "id": 2
+    },
+    {
+      "value": 5.0,
+      "id": 3
+    }
+  ],
+  "data": {
+    "noiseType": false,
+    "sampleOnGate": 0,
+    "gateOnTH": false,
+    "trigOnStart": true,
+    "trigOnEnd": true
+  }
+}
