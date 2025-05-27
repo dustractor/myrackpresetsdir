@@ -1,0 +1,23 @@
+{
+ "plugin": "voxglitch",
+ "model": "wavbank",
+ "version": "2.0",
+ "params": [
+  {
+   "value": 0.0,
+   "id": 0
+  },
+  {
+   "value": 1.0,
+   "id": 1
+  },
+  {
+   "value": 0.0,
+   "id": 2
+  }
+ ],
+ "data": {
+  "path": "d:\\zSamples\\Anill R\u00e9quiem Drum Kit\\rqm 01 \u204e drums",
+  "trig_input_response_mode": 0
+ }
+}
